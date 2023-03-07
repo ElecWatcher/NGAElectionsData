@@ -9,6 +9,10 @@ This list includes all sources ever used in the data set since March 04, 2023.
 - Aggregated data sources:
   - INEC (Independent National Electoral Commission): https://inecelectionresults.ng/elections/types
 
+### Documents
+
+A collection of 160,000 documents that amount to Four Terabytes (4 TB) of data linked to individual polling units are in our possession. We store these documents in an Amazon S3 Bucket.
+
 ### Terms of Use
 
 1. This data set is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) by The Watcher. Copyright The Watcher 2023.
