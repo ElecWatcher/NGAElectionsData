@@ -13,6 +13,14 @@ This list includes all sources ever used in the data set since March 04, 2023.
 
 A collection of 160,000 documents that amount to Four Terabytes (4 TB) of data linked to individual polling units are in our possession. We store these documents in an Amazon S3 Bucket.
 
+Please do not hesitate to [send us an e-mail](mailto:williamsror@pm.me) should you require access to the documents.
+
+### Commitment
+
+We plan to publish data on a daily basis at approximately 8 pm or 20:00, Greenwich Mean Time (GMT).
+
+A collection of 160,000 documents that amount to Four Terabytes (4 TB) of data linked to individual polling units are in our possession. We store these documents in an Amazon S3 Bucket.
+
 ### Terms of Use
 
 1. This data set is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) by The Watcher. Copyright The Watcher 2023.
