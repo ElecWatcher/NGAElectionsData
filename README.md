@@ -17,9 +17,8 @@ Please do not hesitate to [send us an e-mail](mailto:williamsror@pm.me) should y
 
 ### Commitment
 
-We plan to publish data on a daily basis at approximately 8 pm or 20:00, Greenwich Mean Time (GMT).
+We plan to publish data on a daily basis at approximately 7 pm or 19:00, Greenwich Mean Time (GMT).
 
-A collection of 160,000 documents that amount to Four Terabytes (4 TB) of data linked to individual polling units are in our possession. We store these documents in an Amazon S3 Bucket.
 
 ### Terms of Use
 
