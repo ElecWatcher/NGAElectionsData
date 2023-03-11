@@ -13,7 +13,7 @@ This list includes all sources ever used in the data set since March 04, 2023.
 
 A collection of 160,000 documents that amount to Four Terabytes (4 TB) of data linked to individual polling units are in our possession. We store these documents in an Amazon S3 Bucket.
 
-Please do not hesitate to [send us an e-mail](mailto:williamsror@pm.me) should you require access to the documents.
+As of 11/03/2023, there is a new dataset titled [docs.csv](./nga_presidential_election_2023_data/11_03_2023/docs.csv) in the directory. It's a `sample data`. Please do not hesitate to [send us an e-mail](mailto:williamsror@pm.me) should you require access to the `complete data` and `documents`.
 
 ### Commitment
 
