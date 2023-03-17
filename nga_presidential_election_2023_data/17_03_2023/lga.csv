@@ -1,0 +1,775 @@
+state_name,total_submitted_results,out_of_how_many,number_of_lgas,number_of_wards,ward_name,polling_units,submitted_results,lga_url
+DELTA,166548,176846,25,10,WARRI SOUTH  WEST (LGA: 25) - DELTA,332,332,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39884d89fc3a883de192
+DELTA,166548,176846,25,11,ETHIOPE  EAST (LGA: 05) - DELTA,220,189,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39874d89fc3a883de17e
+DELTA,166548,176846,25,10,BOMADI (LGA: 03) - DELTA,192,192,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39874d89fc3a883de17c
+DELTA,166548,176846,25,11,BURUTU (LGA: 04) - DELTA,233,233,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39874d89fc3a883de17d
+DELTA,166548,176846,25,13,ISOKO NORTH (LGA: 09) - DELTA,264,264,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39874d89fc3a883de182
+DELTA,166548,176846,25,11,ISOKO SOUTH (LGA: 10) - DELTA,257,250,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39874d89fc3a883de183
+DELTA,166548,176846,25,10,OSHIMILI - NORTH (LGA: 14) - DELTA,165,164,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39874d89fc3a883de187
+DELTA,166548,176846,25,14,IKA NORTH- EAST (LGA: 07) - DELTA,238,238,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39874d89fc3a883de180
+DELTA,166548,176846,25,10,NDOKWA WEST (LGA: 12) - DELTA,203,203,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39874d89fc3a883de185
+DELTA,166548,176846,25,11,OSHIMILI - SOUTH (LGA: 15) - DELTA,319,312,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39884d89fc3a883de188
+DELTA,166548,176846,25,11,UGHELLI NORTH (LGA: 19) - DELTA,400,365,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39884d89fc3a883de18c
+DELTA,166548,176846,25,11,ANIOCHA - SOUTH (LGA: 02) - DELTA,190,190,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39874d89fc3a883de17b
+DELTA,166548,176846,25,11,SAPELE (LGA: 17) - DELTA,268,249,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39884d89fc3a883de18a
+DELTA,166548,176846,25,12,IKA - SOUTH (LGA: 08) - DELTA,169,169,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39874d89fc3a883de181
+DELTA,166548,176846,25,11,UGHELLI SOUTH (LGA: 20) - DELTA,244,243,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39884d89fc3a883de18d
+DELTA,166548,176846,25,12,WARRI SOUTH (LGA: 24) - DELTA,351,339,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39884d89fc3a883de191
+DELTA,166548,176846,25,10,ANIOCHA NORTH (LGA: 01) - DELTA,153,153,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39874d89fc3a883de17a
+DELTA,166548,176846,25,11,ETHIOPE  WEST (LGA: 06) - DELTA,220,217,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39874d89fc3a883de17f
+DELTA,166548,176846,25,10,UVWIE (LGA: 22) - DELTA,327,300,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39884d89fc3a883de18f
+DELTA,166548,176846,25,10,OKPE (LGA: 13) - DELTA,236,231,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39874d89fc3a883de186
+DELTA,166548,176846,25,10,UDU (LGA: 18) - DELTA,265,257,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39884d89fc3a883de18b
+DELTA,166548,176846,25,10,NDOKWA EAST (LGA: 11) - DELTA,158,154,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39874d89fc3a883de184
+DELTA,166548,176846,25,10,PATANI (LGA: 16) - DELTA,99,98,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39884d89fc3a883de189
+DELTA,166548,176846,25,10,WARRI  NORTH (LGA: 23) - DELTA,192,190,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39884d89fc3a883de190
+DELTA,166548,176846,25,10,UKWUANI (LGA: 21) - DELTA,168,142,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39884d89fc3a883de18e
+ZAMFARA,166548,176846,14,11,BUNGUDU (LGA: 05) - ZAMFARA,325,304,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ad4d89fc3a883de3bc
+ZAMFARA,166548,176846,14,10,BAKURA (LGA: 02) - ZAMFARA,189,175,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ad4d89fc3a883de3b9
+ZAMFARA,166548,176846,14,10,BUKKUYUM (LGA: 04) - ZAMFARA,193,191,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ad4d89fc3a883de3bb
+ZAMFARA,166548,176846,14,10,BIRNIN MAGAJI (LGA: 03) - ZAMFARA,187,187,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ad4d89fc3a883de3ba
+ZAMFARA,166548,176846,14,10,ANKA (LGA: 01) - ZAMFARA,164,133,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ad4d89fc3a883de3b8
+ZAMFARA,166548,176846,14,10,MARU (LGA: 10) - ZAMFARA,247,182,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ad4d89fc3a883de3c1
+ZAMFARA,166548,176846,14,11,GUMMI (LGA: 06) - ZAMFARA,221,200,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ad4d89fc3a883de3bd
+ZAMFARA,166548,176846,14,11,KAURA NAMODA (LGA: 08) - ZAMFARA,261,255,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ad4d89fc3a883de3bf
+ZAMFARA,166548,176846,14,10,MARADUN (LGA: 09) - ZAMFARA,195,165,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ad4d89fc3a883de3c0
+ZAMFARA,166548,176846,14,11,TSAFE (LGA: 13) - ZAMFARA,301,292,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ae4d89fc3a883de3c4
+ZAMFARA,166548,176846,14,11,GUSAU (LGA: 07) - ZAMFARA,564,518,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ad4d89fc3a883de3be
+ZAMFARA,166548,176846,14,10,SHINKAFI (LGA: 11) - ZAMFARA,172,24,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ad4d89fc3a883de3c2
+ZAMFARA,166548,176846,14,11,ZURMI (LGA: 14) - ZAMFARA,251,251,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ae4d89fc3a883de3c5
+ZAMFARA,166548,176846,14,11,TALATA MAFARA (LGA: 12) - ZAMFARA,259,188,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ae4d89fc3a883de3c3
+CROSS RIVER,166548,176846,18,10,ABI (LGA: 01) - CROSS RIVER,120,120,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39854d89fc3a883de168
+CROSS RIVER,166548,176846,18,10,BAKASSI (LGA: 04) - CROSS RIVER,70,70,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39864d89fc3a883de16b
+CROSS RIVER,166548,176846,18,10,AKAMKPA (LGA: 02) - CROSS RIVER,195,194,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39864d89fc3a883de169
+CROSS RIVER,166548,176846,18,10,AKPABUYO (LGA: 03) - CROSS RIVER,145,145,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39864d89fc3a883de16a
+CROSS RIVER,166548,176846,18,11,BIASE (LGA: 06) - CROSS RIVER,152,152,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39864d89fc3a883de16d
+CROSS RIVER,166548,176846,18,10,BEKWARRA (LGA: 05) - CROSS RIVER,127,127,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39864d89fc3a883de16c
+CROSS RIVER,166548,176846,18,12,CALABAR SOUTH (LGA: 09) - CROSS RIVER,301,301,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39864d89fc3a883de170
+CROSS RIVER,166548,176846,18,10,CALABAR MUNICIPALITY (LGA: 08) - CROSS RIVER,334,334,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39864d89fc3a883de16f
+CROSS RIVER,166548,176846,18,11,BOKI (LGA: 07) - CROSS RIVER,205,205,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39864d89fc3a883de16e
+CROSS RIVER,166548,176846,18,11,IKOM (LGA: 11) - CROSS RIVER,221,221,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39864d89fc3a883de172
+CROSS RIVER,166548,176846,18,10,ETUNG (LGA: 10) - CROSS RIVER,83,83,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39864d89fc3a883de171
+CROSS RIVER,166548,176846,18,11,OBUBRA (LGA: 13) - CROSS RIVER,226,226,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39864d89fc3a883de174
+CROSS RIVER,166548,176846,18,10,OGOJA (LGA: 16) - CROSS RIVER,178,178,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39864d89fc3a883de177
+CROSS RIVER,166548,176846,18,11,YALA (LGA: 18) - CROSS RIVER,226,223,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39864d89fc3a883de179
+CROSS RIVER,166548,176846,18,10,OBANLIKU (LGA: 12) - CROSS RIVER,88,88,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39864d89fc3a883de173
+CROSS RIVER,166548,176846,18,10,OBUDU (LGA: 14) - CROSS RIVER,255,255,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39864d89fc3a883de175
+CROSS RIVER,166548,176846,18,13,ODUKPANI (LGA: 15) - CROSS RIVER,160,160,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39864d89fc3a883de176
+CROSS RIVER,166548,176846,18,13,YAKURR (LGA: 17) - CROSS RIVER,195,195,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39864d89fc3a883de178
+YOBE,166548,176846,17,10,BADE (LGA: 01) - YOBE,210,209,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ac4d89fc3a883de3a7
+YOBE,166548,176846,17,10,FIKA (LGA: 04) - YOBE,200,125,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ac4d89fc3a883de3aa
+YOBE,166548,176846,17,11,DAMATURU (LGA: 03) - YOBE,221,221,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ac4d89fc3a883de3a9
+YOBE,166548,176846,17,10,BURSARI (LGA: 02) - YOBE,128,128,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ac4d89fc3a883de3a8
+YOBE,166548,176846,17,13,FUNE (LGA: 05) - YOBE,242,242,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ac4d89fc3a883de3ab
+YOBE,166548,176846,17,11,GEIDAM (LGA: 06) - YOBE,154,154,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ac4d89fc3a883de3ac
+YOBE,166548,176846,17,10,GUJBA (LGA: 07) - YOBE,140,140,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ac4d89fc3a883de3ad
+YOBE,166548,176846,17,10,KARASAWA (LGA: 10) - YOBE,121,121,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ac4d89fc3a883de3b0
+YOBE,166548,176846,17,10,MACHINA (LGA: 11) - YOBE,91,91,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ac4d89fc3a883de3b1
+YOBE,166548,176846,17,11,NANGERE (LGA: 12) - YOBE,169,169,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ac4d89fc3a883de3b2
+YOBE,166548,176846,17,12,GULANI (LGA: 08) - YOBE,131,130,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ac4d89fc3a883de3ae
+YOBE,166548,176846,17,10,JAKUSKO (LGA: 09) - YOBE,161,109,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ac4d89fc3a883de3af
+YOBE,166548,176846,17,10,YUNUSARI (LGA: 16) - YOBE,134,134,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ad4d89fc3a883de3b6
+YOBE,166548,176846,17,10,NGURU (LGA: 13) - YOBE,182,182,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ad4d89fc3a883de3b3
+YOBE,166548,176846,17,10,YUSUFARI (LGA: 17) - YOBE,127,127,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ad4d89fc3a883de3b7
+YOBE,166548,176846,17,10,POTISKUM (LGA: 14) - YOBE,328,328,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ad4d89fc3a883de3b4
+YOBE,166548,176846,17,10,TARMUWA (LGA: 15) - YOBE,84,84,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ad4d89fc3a883de3b5
+TARABA,166548,176846,16,12,GASSOL (LGA: 05) - TARABA,342,339,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ab4d89fc3a883de39b
+TARABA,166548,176846,16,10,ARDO - KOLA (LGA: 01) - TARABA,174,174,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ab4d89fc3a883de397
+TARABA,166548,176846,16,10,DONGA (LGA: 03) - TARABA,201,198,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ab4d89fc3a883de399
+TARABA,166548,176846,16,10,GASHAKA (LGA: 04) - TARABA,137,129,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ab4d89fc3a883de39a
+TARABA,166548,176846,16,11,KARIM-LAMIDO (LGA: 08) - TARABA,274,252,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ab4d89fc3a883de39e
+TARABA,166548,176846,16,10,JALINGO (LGA: 07) - TARABA,383,377,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ab4d89fc3a883de39d
+TARABA,166548,176846,16,11,BALI (LGA: 02) - TARABA,254,239,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ab4d89fc3a883de398
+TARABA,166548,176846,16,10,KURMI (LGA: 09) - TARABA,142,128,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ab4d89fc3a883de39f
+TARABA,166548,176846,16,10,IBI (LGA: 06) - TARABA,142,142,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ab4d89fc3a883de39c
+TARABA,166548,176846,16,10,LAU (LGA: 10) - TARABA,137,137,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ab4d89fc3a883de3a0
+TARABA,166548,176846,16,11,TAKUM (LGA: 12) - TARABA,245,36,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ac4d89fc3a883de3a2
+TARABA,166548,176846,16,11,USSA (LGA: 13) - TARABA,156,93,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ac4d89fc3a883de3a3
+TARABA,166548,176846,16,10,WUKARI (LGA: 14) - TARABA,377,333,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ac4d89fc3a883de3a4
+TARABA,166548,176846,16,11,SARDAUNA (LGA: 11) - TARABA,358,320,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ab4d89fc3a883de3a1
+TARABA,166548,176846,16,11,YORRO (LGA: 15) - TARABA,121,110,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ac4d89fc3a883de3a5
+TARABA,166548,176846,16,10,ZING (LGA: 16) - TARABA,154,148,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ac4d89fc3a883de3a6
+SOKOTO,166548,176846,23,11,DANGE/SHUNI (LGA: 03) - SOKOTO,194,119,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39aa4d89fc3a883de382
+SOKOTO,166548,176846,23,10,ISA (LGA: 09) - SOKOTO,146,143,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39aa4d89fc3a883de388
+SOKOTO,166548,176846,23,11,BODINGA (LGA: 02) - SOKOTO,181,180,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39aa4d89fc3a883de381
+SOKOTO,166548,176846,23,11,GORONYO (LGA: 05) - SOKOTO,172,162,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39aa4d89fc3a883de384
+SOKOTO,166548,176846,23,11,GADA (LGA: 04) - SOKOTO,239,213,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39aa4d89fc3a883de383
+SOKOTO,166548,176846,23,11,ILLELA (LGA: 08) - SOKOTO,210,186,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39aa4d89fc3a883de387
+SOKOTO,166548,176846,23,11,GWADABAWA (LGA: 07) - SOKOTO,186,116,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39aa4d89fc3a883de386
+SOKOTO,166548,176846,23,11,KWARE (LGA: 10) - SOKOTO,153,106,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39aa4d89fc3a883de389
+SOKOTO,166548,176846,23,10,SHAGARI (LGA: 14) - SOKOTO,148,145,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39aa4d89fc3a883de38d
+SOKOTO,166548,176846,23,11,S/BIRNI (LGA: 13) - SOKOTO,232,192,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39aa4d89fc3a883de38c
+SOKOTO,166548,176846,23,10,SILAME (LGA: 15) - SOKOTO,101,85,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39aa4d89fc3a883de38e
+SOKOTO,166548,176846,23,11,RABAH (LGA: 12) - SOKOTO,126,76,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39aa4d89fc3a883de38b
+SOKOTO,166548,176846,23,10,TANGAZA (LGA: 19) - SOKOTO,139,115,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ab4d89fc3a883de392
+SOKOTO,166548,176846,23,11,SOKOTO SOUTH (LGA: 17) - SOKOTO,341,326,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39aa4d89fc3a883de390
+SOKOTO,166548,176846,23,10,TURETA (LGA: 20) - SOKOTO,82,74,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ab4d89fc3a883de393
+SOKOTO,166548,176846,23,10,BINJI (LGA: 01) - SOKOTO,85,85,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a94d89fc3a883de380
+SOKOTO,166548,176846,23,11,TAMBUWAL (LGA: 18) - SOKOTO,259,196,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ab4d89fc3a883de391
+SOKOTO,166548,176846,23,11,WURNO (LGA: 22) - SOKOTO,132,102,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ab4d89fc3a883de395
+SOKOTO,166548,176846,23,10,YABO (LGA: 23) - SOKOTO,114,90,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ab4d89fc3a883de396
+SOKOTO,166548,176846,23,10,GUDU (LGA: 06) - SOKOTO,90,90,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39aa4d89fc3a883de385
+SOKOTO,166548,176846,23,10,KEBBE (LGA: 11) - SOKOTO,113,55,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39aa4d89fc3a883de38a
+SOKOTO,166548,176846,23,11,SOKOTO NORTH (LGA: 16) - SOKOTO,289,223,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39aa4d89fc3a883de38f
+SOKOTO,166548,176846,23,11,WAMAKKO (LGA: 21) - SOKOTO,259,257,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39ab4d89fc3a883de394
+RIVERS,166548,176846,23,17,DEGEMA (LGA: 08) - RIVERS,178,177,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a84d89fc3a883de370
+RIVERS,166548,176846,23,10,ELEME (LGA: 09) - RIVERS,233,206,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a94d89fc3a883de371
+RIVERS,166548,176846,23,13,IKWERRE (LGA: 13) - RIVERS,312,103,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a94d89fc3a883de375
+RIVERS,166548,176846,23,14,EMOHUA (LGA: 10) - RIVERS,280,191,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a94d89fc3a883de372
+RIVERS,166548,176846,23,13,ASARI-TORU (LGA: 06) - RIVERS,251,137,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a84d89fc3a883de36e
+RIVERS,166548,176846,23,17,OBIO/AKPOR (LGA: 15) - RIVERS,1211,1116,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a94d89fc3a883de377
+RIVERS,166548,176846,23,19,KHANA (LGA: 14) - RIVERS,359,207,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a94d89fc3a883de376
+RIVERS,166548,176846,23,12,OKRIKA (LGA: 18) - RIVERS,170,159,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a94d89fc3a883de37a
+RIVERS,166548,176846,23,19,ETCHE (LGA: 11) - RIVERS,271,117,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a94d89fc3a883de373
+RIVERS,166548,176846,23,10,OMUMA (LGA: 19) - RIVERS,167,153,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a94d89fc3a883de37b
+RIVERS,166548,176846,23,11,OPOBO/NEKORO (LGA: 20) - RIVERS,154,154,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a94d89fc3a883de37c
+RIVERS,166548,176846,23,10,TAI (LGA: 23) - RIVERS,141,136,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a94d89fc3a883de37f
+RIVERS,166548,176846,23,17,OGBA/EGBEMA/NDONI (LGA: 16) - RIVERS,335,329,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a94d89fc3a883de378
+RIVERS,166548,176846,23,12,BONNY (LGA: 07) - RIVERS,165,156,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a84d89fc3a883de36f
+RIVERS,166548,176846,23,10,OYIGBO (LGA: 21) - RIVERS,217,215,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a94d89fc3a883de37d
+RIVERS,166548,176846,23,17,GOKANA (LGA: 12) - RIVERS,260,210,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a94d89fc3a883de374
+RIVERS,166548,176846,23,12,OGU/BOLO (LGA: 17) - RIVERS,131,126,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a94d89fc3a883de379
+RIVERS,166548,176846,23,20,PORT HARCOURT (LGA: 22) - RIVERS,961,752,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a94d89fc3a883de37e
+RIVERS,166548,176846,23,17,AKUKU TORU (LGA: 04) - RIVERS,244,244,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a84d89fc3a883de36c
+RIVERS,166548,176846,23,13,AHOADA EAST (LGA: 02) - RIVERS,176,172,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a84d89fc3a883de36a
+RIVERS,166548,176846,23,12,AHOADA WEST (LGA: 03) - RIVERS,171,162,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a84d89fc3a883de36b
+RIVERS,166548,176846,23,13,ABUA-ODUAL (LGA: 01) - RIVERS,214,201,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a84d89fc3a883de369
+RIVERS,166548,176846,23,11,ANDONI (LGA: 05) - RIVERS,265,259,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a84d89fc3a883de36d
+PLATEAU,166548,176846,17,11,BARIKIN LADI (LGA: 01) - PLATEAU,236,236,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a74d89fc3a883de359
+PLATEAU,166548,176846,17,10,JOS EAST (LGA: 04) - PLATEAU,133,133,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a74d89fc3a883de35c
+PLATEAU,166548,176846,17,16,BASSA (LGA: 02) - PLATEAU,296,295,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a74d89fc3a883de35a
+PLATEAU,166548,176846,17,14,JOS NORTH (LGA: 05) - PLATEAU,913,913,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a74d89fc3a883de358
+PLATEAU,166548,176846,17,14,BOKKOS (LGA: 03) - PLATEAU,236,236,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a74d89fc3a883de35b
+PLATEAU,166548,176846,17,14,KANAM (LGA: 07) - PLATEAU,285,285,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a74d89fc3a883de35e
+PLATEAU,166548,176846,17,14,LANGTANG NORTH (LGA: 09) - PLATEAU,225,220,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a74d89fc3a883de360
+PLATEAU,166548,176846,17,10,KANKE (LGA: 08) - PLATEAU,185,185,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a74d89fc3a883de35f
+PLATEAU,166548,176846,17,10,LANGTANG SOUTH (LGA: 10) - PLATEAU,127,127,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a74d89fc3a883de361
+PLATEAU,166548,176846,17,12,JOS SOUTH (LGA: 06) - PLATEAU,542,542,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a74d89fc3a883de35d
+PLATEAU,166548,176846,17,16,MANGU (LGA: 11) - PLATEAU,409,406,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a84d89fc3a883de362
+PLATEAU,166548,176846,17,10,MIKANG (LGA: 12) - PLATEAU,111,111,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a84d89fc3a883de363
+PLATEAU,166548,176846,17,11,QUA'AN PAN (LGA: 14) - PLATEAU,279,279,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a84d89fc3a883de365
+PLATEAU,166548,176846,17,12,PANKSHIN (LGA: 13) - PLATEAU,260,260,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a84d89fc3a883de364
+PLATEAU,166548,176846,17,10,RIYOM (LGA: 15) - PLATEAU,146,146,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a84d89fc3a883de366
+PLATEAU,166548,176846,17,12,WASE (LGA: 17) - PLATEAU,277,277,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a84d89fc3a883de368
+PLATEAU,166548,176846,17,11,SHENDAM (LGA: 16) - PLATEAU,329,329,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a84d89fc3a883de367
+OSUN,166548,176846,30,10,ATAKUMOSA EAST (LGA: 01) - OSUN,77,48,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a34d89fc3a883de319
+OSUN,166548,176846,30,10,BOLUWADURO (LGA: 05) - OSUN,74,69,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a34d89fc3a883de31d
+OSUN,166548,176846,30,11,ATAKUMOSA WEST (LGA: 02) - OSUN,76,31,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a34d89fc3a883de31a
+OSUN,166548,176846,30,11,AYEDAADE (LGA: 03) - OSUN,150,150,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a34d89fc3a883de31b
+OSUN,166548,176846,30,11,BORIPE (LGA: 06) - OSUN,112,108,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a34d89fc3a883de31e
+OSUN,166548,176846,30,11,EDE NORTH (LGA: 07) - OSUN,139,108,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a34d89fc3a883de31f
+OSUN,166548,176846,30,11,IFE CENTRAL (LGA: 11) - OSUN,215,215,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a44d89fc3a883de323
+OSUN,166548,176846,30,10,EGBEDORE (LGA: 09) - OSUN,90,90,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a44d89fc3a883de321
+OSUN,166548,176846,30,10,EDE SOUTH (LGA: 08) - OSUN,101,101,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a34d89fc3a883de320
+OSUN,166548,176846,30,10,IFEDAYO (LGA: 12) - OSUN,63,45,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a44d89fc3a883de324
+OSUN,166548,176846,30,10,IFE EAST (LGA: 13) - OSUN,200,200,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a44d89fc3a883de325
+OSUN,166548,176846,30,12,IFELODUN (LGA: 14) - OSUN,145,144,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a44d89fc3a883de326
+OSUN,166548,176846,30,11,ILA (LGA: 17) - OSUN,124,124,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a44d89fc3a883de329
+OSUN,166548,176846,30,11,IFE SOUTH (LGA: 16) - OSUN,131,110,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a44d89fc3a883de328
+OSUN,166548,176846,30,11,ILESA EAST (LGA: 18) - OSUN,132,132,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a44d89fc3a883de32a
+OSUN,166548,176846,30,10,AYEDIRE (LGA: 04) - OSUN,67,67,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a34d89fc3a883de31c
+OSUN,166548,176846,30,11,ISOKAN (LGA: 22) - OSUN,95,95,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a44d89fc3a883de32e
+OSUN,166548,176846,30,11,IREWOLE (LGA: 21) - OSUN,138,138,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a44d89fc3a883de32d
+OSUN,166548,176846,30,11,EJIGBO (LGA: 10) - OSUN,133,104,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a44d89fc3a883de322
+OSUN,166548,176846,30,15,IWO (LGA: 23) - OSUN,170,155,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a44d89fc3a883de32f
+OSUN,166548,176846,30,10,ILESA WEST (LGA: 19) - OSUN,121,118,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a44d89fc3a883de32b
+OSUN,166548,176846,30,10,OBOKUN (LGA: 24) - OSUN,100,100,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a44d89fc3a883de330
+OSUN,166548,176846,30,10,IFE NORTH (LGA: 15) - OSUN,111,110,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a44d89fc3a883de327
+OSUN,166548,176846,30,11,OLORUNDA (LGA: 27) - OSUN,193,193,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a54d89fc3a883de333
+OSUN,166548,176846,30,10,OLA-OLUWA (LGA: 26) - OSUN,62,62,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a54d89fc3a883de332
+OSUN,166548,176846,30,10,OROLU (LGA: 29) - OSUN,85,85,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a54d89fc3a883de335
+OSUN,166548,176846,30,12,ORIADE (LGA: 28) - OSUN,123,116,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a54d89fc3a883de334
+OSUN,166548,176846,30,11,IREPODUN (LGA: 20) - OSUN,133,133,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a44d89fc3a883de32c
+OSUN,166548,176846,30,15,ODO-OTIN (LGA: 25) - OSUN,121,115,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a54d89fc3a883de331
+OSUN,166548,176846,30,15,OSOGBO (LGA: 30) - OSUN,282,279,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a54d89fc3a883de336
+OYO,166548,176846,33,10,AFIJIO (LGA: 01) - OYO,95,90,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a54d89fc3a883de337
+OYO,166548,176846,33,10,ATIBA (LGA: 03) - OYO,168,168,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a54d89fc3a883de339
+OYO,166548,176846,33,10,ATISBO (LGA: 04) - OYO,152,107,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a54d89fc3a883de33a
+OYO,166548,176846,33,11,IBADAN NORTH WEST (LGA: 08) - OYO,240,240,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a54d89fc3a883de33e
+OYO,166548,176846,33,11,EGBEDA (LGA: 05) - OYO,294,294,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a54d89fc3a883de33b
+OYO,166548,176846,33,12,IBADAN NORTH (LGA: 06) - OYO,512,334,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a54d89fc3a883de33c
+OYO,166548,176846,33,12,AKINYELE (LGA: 02) - OYO,278,278,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a54d89fc3a883de338
+OYO,166548,176846,33,10,IBARAPA NORTH (LGA: 13) - OYO,148,113,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a64d89fc3a883de343
+OYO,166548,176846,33,12,IBADAN SOUTH WEST (LGA: 10) - OYO,473,473,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a54d89fc3a883de340
+OYO,166548,176846,33,12,IBADAN NORTH EAST (LGA: 07) - OYO,336,216,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a54d89fc3a883de33d
+OYO,166548,176846,33,10,IBARAPA CENTRAL (LGA: 11) - OYO,140,97,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a64d89fc3a883de341
+OYO,166548,176846,33,12,IBADAN SOUTH-EAST (LGA: 09) - OYO,352,352,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a54d89fc3a883de33f
+OYO,166548,176846,33,10,IWAJOWA (LGA: 18) - OYO,120,118,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a64d89fc3a883de348
+OYO,166548,176846,33,10,IREPO (LGA: 15) - OYO,101,101,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a64d89fc3a883de345
+OYO,166548,176846,33,11,ISEYIN (LGA: 16) - OYO,229,220,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a64d89fc3a883de346
+OYO,166548,176846,33,10,IBARAPA EAST (LGA: 12) - OYO,148,148,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a64d89fc3a883de342
+OYO,166548,176846,33,10,OGO-OLUWA (LGA: 23) - OYO,95,95,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a64d89fc3a883de34d
+OYO,166548,176846,33,10,IDO (LGA: 14) - OYO,196,187,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a64d89fc3a883de344
+OYO,166548,176846,33,14,LAGELU (LGA: 20) - OYO,225,225,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a64d89fc3a883de34a
+OYO,166548,176846,33,10,ITESIWAJU (LGA: 17) - OYO,97,97,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a64d89fc3a883de347
+OYO,166548,176846,33,10,OGBOMOSO NORTH (LGA: 21) - OYO,188,186,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a64d89fc3a883de34b
+OYO,166548,176846,33,10,OLUYOLE (LGA: 25) - OYO,229,181,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a64d89fc3a883de34f
+OYO,166548,176846,33,11,KAJOLA (LGA: 19) - OYO,132,132,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a64d89fc3a883de349
+OYO,166548,176846,33,10,ORI IRE (LGA: 28) - OYO,168,168,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a74d89fc3a883de352
+OYO,166548,176846,33,11,ONA-ARA (LGA: 26) - OYO,150,124,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a64d89fc3a883de350
+OYO,166548,176846,33,10,OGBOMOSO SOUTH (LGA: 22) - OYO,183,173,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a64d89fc3a883de34c
+OYO,166548,176846,33,10,OLORUNSOGO (LGA: 24) - OYO,68,68,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a64d89fc3a883de34e
+OYO,166548,176846,33,10,SURULERE (LGA: 33) - OYO,159,159,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a74d89fc3a883de357
+OYO,166548,176846,33,10,OYO WEST (LGA: 30) - OYO,139,139,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a74d89fc3a883de354
+OYO,166548,176846,33,11,SAKI EAST (LGA: 31) - OYO,105,105,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a74d89fc3a883de355
+OYO,166548,176846,33,10,OORELOPE (LGA: 27) - OYO,93,85,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a74d89fc3a883de351
+OYO,166548,176846,33,10,OYO EAST (LGA: 29) - OYO,149,149,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a74d89fc3a883de353
+OYO,166548,176846,33,11,SAKI WEST (LGA: 32) - OYO,228,182,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a74d89fc3a883de356
+ONDO,166548,176846,18,13,OKITIPUPA (LGA: 14) - ONDO,269,269,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a34d89fc3a883de314
+ONDO,166548,176846,18,12,ILAJE (LGA: 10) - ONDO,292,292,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a24d89fc3a883de310
+ONDO,166548,176846,18,10,IRELE (LGA: 12) - ONDO,155,155,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a34d89fc3a883de312
+ONDO,166548,176846,18,10,ONDO EAST (LGA: 15) - ONDO,106,106,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a34d89fc3a883de315
+ONDO,166548,176846,18,11,ODIGBO (LGA: 13) - ONDO,304,304,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a34d89fc3a883de313
+ONDO,166548,176846,18,10,ILEOLUJI/OKEIGBO (LGA: 11) - ONDO,191,190,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a34d89fc3a883de311
+ONDO,166548,176846,18,12,OSE (LGA: 17) - ONDO,141,140,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a34d89fc3a883de317
+ONDO,166548,176846,18,11,OWO (LGA: 18) - ONDO,275,275,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a34d89fc3a883de318
+ONDO,166548,176846,18,12,ONDO WEST (LGA: 16) - ONDO,361,361,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a34d89fc3a883de316
+ONDO,166548,176846,18,11,AKOKO SOUTH EAST (LGA: 03) - ONDO,80,80,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a24d89fc3a883de309
+ONDO,166548,176846,18,12,AKURE NORTH (LGA: 05) - ONDO,157,157,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a24d89fc3a883de30b
+ONDO,166548,176846,18,10,AKOKO NORTH WEST (LGA: 02) - ONDO,170,170,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a24d89fc3a883de308
+ONDO,166548,176846,18,10,IFEDORE (LGA: 09) - ONDO,169,168,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a24d89fc3a883de30f
+ONDO,166548,176846,18,13,AKOKO NORTH EAST (LGA: 01) - ONDO,159,158,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a24d89fc3a883de307
+ONDO,166548,176846,18,15,AKOKO SOUTH WEST (LGA: 04) - ONDO,199,199,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a24d89fc3a883de30a
+ONDO,166548,176846,18,10,IDANRE (LGA: 08) - ONDO,166,166,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a24d89fc3a883de30e
+ONDO,166548,176846,18,10,ESE-ODO (LGA: 07) - ONDO,143,143,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a24d89fc3a883de30d
+ONDO,166548,176846,18,11,AKURE SOUTH (LGA: 06) - ONDO,596,596,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a24d89fc3a883de30c
+NIGER,166548,176846,25,10,BORGU (LGA: 04) - NIGER,208,203,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399f4d89fc3a883de2dd
+NIGER,166548,176846,25,11,AGAIE (LGA: 01) - NIGER,164,142,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399f4d89fc3a883de2da
+NIGER,166548,176846,25,14,BIDA (LGA: 03) - NIGER,270,268,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399f4d89fc3a883de2dc
+NIGER,166548,176846,25,10,AGWARA (LGA: 02) - NIGER,70,70,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399f4d89fc3a883de2db
+NIGER,166548,176846,25,11,CHANCHAGA (LGA: 06) - NIGER,379,369,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a04d89fc3a883de2df
+NIGER,166548,176846,25,10,BOSSO (LGA: 05) - NIGER,249,246,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399f4d89fc3a883de2de
+NIGER,166548,176846,25,10,EDATTI (LGA: 07) - NIGER,119,117,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a04d89fc3a883de2e0
+NIGER,166548,176846,25,10,GBAKO (LGA: 08) - NIGER,156,155,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a04d89fc3a883de2e1
+NIGER,166548,176846,25,10,KATCHA (LGA: 10) - NIGER,149,135,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a04d89fc3a883de2e3
+NIGER,166548,176846,25,10,LAPAI (LGA: 12) - NIGER,193,192,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a04d89fc3a883de2e5
+NIGER,166548,176846,25,10,GURARA (LGA: 09) - NIGER,150,150,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a04d89fc3a883de2e2
+NIGER,166548,176846,25,13,KONTAGORA (LGA: 11) - NIGER,248,244,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a04d89fc3a883de2e4
+NIGER,166548,176846,25,11,MAGAMA (LGA: 14) - NIGER,189,186,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a04d89fc3a883de2e7
+NIGER,166548,176846,25,12,LAVUN (LGA: 13) - NIGER,223,223,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a04d89fc3a883de2e6
+NIGER,166548,176846,25,11,MOKWA (LGA: 17) - NIGER,187,187,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a04d89fc3a883de2ea
+NIGER,166548,176846,25,11,MARIGA (LGA: 15) - NIGER,214,214,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a04d89fc3a883de2e8
+NIGER,166548,176846,25,10,MASHEGU (LGA: 16) - NIGER,205,205,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a04d89fc3a883de2e9
+NIGER,166548,176846,25,11,RAFI (LGA: 20) - NIGER,219,210,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a04d89fc3a883de2ed
+NIGER,166548,176846,25,11,PAIKORO (LGA: 19) - NIGER,232,231,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a04d89fc3a883de2ec
+NIGER,166548,176846,25,15,SHIRORO (LGA: 22) - NIGER,257,257,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a04d89fc3a883de2ef
+NIGER,166548,176846,25,11,MUNYA (LGA: 18) - NIGER,119,119,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a04d89fc3a883de2eb
+NIGER,166548,176846,25,10,SULEJA (LGA: 23) - NIGER,277,276,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a14d89fc3a883de2f0
+NIGER,166548,176846,25,11,WUSHISHI (LGA: 25) - NIGER,124,124,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a14d89fc3a883de2f2
+NIGER,166548,176846,25,10,TAFA (LGA: 24) - NIGER,171,170,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a14d89fc3a883de2f1
+NIGER,166548,176846,25,11,RIJAU (LGA: 21) - NIGER,178,168,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a04d89fc3a883de2ee
+OGUN,166548,176846,20,16,ADO ODO-OTA (LGA: 03) - OGUN,655,655,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a14d89fc3a883de2f5
+OGUN,166548,176846,20,10,EGBADO SOUTH (LGA: 05) - OGUN,257,219,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a14d89fc3a883de2f7
+OGUN,166548,176846,20,16,ABEOKUTA NORTH (LGA: 01) - OGUN,338,338,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a14d89fc3a883de2f3
+OGUN,166548,176846,20,11,EGBADO NORTH (LGA: 04) - OGUN,251,219,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a14d89fc3a883de2f6
+OGUN,166548,176846,20,15,ABEOKUTA SOUTH (LGA: 02) - OGUN,445,425,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a14d89fc3a883de2f4
+OGUN,166548,176846,20,10,EWEKORO (LGA: 06) - OGUN,188,145,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a14d89fc3a883de2f8
+OGUN,166548,176846,20,11,IFO (LGA: 07) - OGUN,448,435,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a14d89fc3a883de2f9
+OGUN,166548,176846,20,10,IJEBU NORTH EAST (LGA: 10) - OGUN,111,98,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a14d89fc3a883de2fc
+OGUN,166548,176846,20,10,IKENNE (LGA: 12) - OGUN,126,126,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a14d89fc3a883de2fe
+OGUN,166548,176846,20,11,IJEBU EAST (LGA: 08) - OGUN,154,154,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a14d89fc3a883de2fa
+OGUN,166548,176846,20,11,IJEBU NORTH (LGA: 09) - OGUN,268,246,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a14d89fc3a883de2fb
+OGUN,166548,176846,20,11,IJEBU ODE (LGA: 11) - OGUN,161,127,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a14d89fc3a883de2fd
+OGUN,166548,176846,20,10,IMEKO/AFON (LGA: 13) - OGUN,132,130,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a14d89fc3a883de2ff
+OGUN,166548,176846,20,12,OBAFEMI/OWODE (LGA: 15) - OGUN,329,327,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a24d89fc3a883de301
+OGUN,166548,176846,20,12,IPOKIA (LGA: 14) - OGUN,262,163,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a24d89fc3a883de300
+OGUN,166548,176846,20,15,ODOGBOLU (LGA: 17) - OGUN,178,178,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a24d89fc3a883de303
+OGUN,166548,176846,20,10,ODEDA (LGA: 16) - OGUN,182,181,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a24d89fc3a883de302
+OGUN,166548,176846,20,15,SAGAMU (LGA: 20) - OGUN,299,299,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a24d89fc3a883de306
+OGUN,166548,176846,20,10,REMO NORTH (LGA: 19) - OGUN,132,132,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a24d89fc3a883de305
+OGUN,166548,176846,20,10,OGUN WATER SIDE (LGA: 18) - OGUN,126,126,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39a24d89fc3a883de304
+NASARAWA,166548,176846,13,10,AWE (LGA: 02) - NASARAWA,165,165,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399e4d89fc3a883de2ce
+NASARAWA,166548,176846,13,11,AKWANGA (LGA: 01) - NASARAWA,206,206,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399e4d89fc3a883de2cd
+NASARAWA,166548,176846,13,11,KARU (LGA: 04) - NASARAWA,516,471,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399f4d89fc3a883de2d0
+NASARAWA,166548,176846,13,10,KEANA (LGA: 05) - NASARAWA,114,109,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399f4d89fc3a883de2d1
+NASARAWA,166548,176846,13,10,DOMA (LGA: 03) - NASARAWA,214,214,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399f4d89fc3a883de2cf
+NASARAWA,166548,176846,13,14,NASARAWA EGGON (LGA: 10) - NASARAWA,255,253,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399f4d89fc3a883de2d6
+NASARAWA,166548,176846,13,11,KOKONA (LGA: 07) - NASARAWA,194,181,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399f4d89fc3a883de2d3
+NASARAWA,166548,176846,13,13,LAFIA (LGA: 08) - NASARAWA,497,497,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399f4d89fc3a883de2d4
+NASARAWA,166548,176846,13,10,KEFFI (LGA: 06) - NASARAWA,215,205,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399f4d89fc3a883de2d2
+NASARAWA,166548,176846,13,10,WAMBA (LGA: 13) - NASARAWA,122,122,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399f4d89fc3a883de2d9
+NASARAWA,166548,176846,13,15,NASARAWA (LGA: 09) - NASARAWA,303,260,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399f4d89fc3a883de2d5
+NASARAWA,166548,176846,13,10,OBI (LGA: 11) - NASARAWA,251,251,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399f4d89fc3a883de2d7
+NASARAWA,166548,176846,13,12,TOTO (LGA: 12) - NASARAWA,204,194,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399f4d89fc3a883de2d8
+LAGOS,166548,176846,20,11,AJEROMI/IFELODUN (LGA: 02) - LAGOS,734,701,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399d4d89fc3a883de2ba
+LAGOS,166548,176846,20,11,AGEGE (LGA: 01) - LAGOS,696,696,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399d4d89fc3a883de2b9
+LAGOS,166548,176846,20,11,ALIMOSHO (LGA: 03) - LAGOS,1545,1543,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399d4d89fc3a883de2bb
+LAGOS,166548,176846,20,11,AMUWO-ODOFIN (LGA: 04) - LAGOS,637,622,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399d4d89fc3a883de2bc
+LAGOS,166548,176846,20,10,APAPA (LGA: 05) - LAGOS,374,374,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399d4d89fc3a883de2bd
+LAGOS,166548,176846,20,19,EPE (LGA: 07) - LAGOS,374,365,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399e4d89fc3a883de2bf
+LAGOS,166548,176846,20,19,IKORODU (LGA: 12) - LAGOS,682,681,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399e4d89fc3a883de2c4
+LAGOS,166548,176846,20,11,IFAKO-IJAYE (LGA: 10) - LAGOS,761,761,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399e4d89fc3a883de2c2
+LAGOS,166548,176846,20,11,BADAGRY (LGA: 06) - LAGOS,412,412,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399d4d89fc3a883de2be
+LAGOS,166548,176846,20,11,IBEJU/LEKKI (LGA: 09) - LAGOS,227,227,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399e4d89fc3a883de2c1
+LAGOS,166548,176846,20,10,ETI-OSA (LGA: 08) - LAGOS,725,680,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399e4d89fc3a883de2c0
+LAGOS,166548,176846,20,11,LAGOS MAINLAND (LGA: 15) - LAGOS,493,481,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399e4d89fc3a883de2c7
+LAGOS,166548,176846,20,10,IKEJA (LGA: 11) - LAGOS,667,664,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399e4d89fc3a883de2c3
+LAGOS,166548,176846,20,11,OJO (LGA: 17) - LAGOS,582,574,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399e4d89fc3a883de2c9
+LAGOS,166548,176846,20,19,LAGOS ISLAND (LGA: 14) - LAGOS,389,389,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399e4d89fc3a883de2c6
+LAGOS,166548,176846,20,10,KOSOFE (LGA: 13) - LAGOS,899,892,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399e4d89fc3a883de2c5
+LAGOS,166548,176846,20,14,MUSHIN (LGA: 16) - LAGOS,865,864,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399e4d89fc3a883de2c8
+LAGOS,166548,176846,20,12,SOMOLU (LGA: 19) - LAGOS,616,616,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399e4d89fc3a883de2cb
+LAGOS,166548,176846,20,12,SURULERE (LGA: 20) - LAGOS,757,742,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399e4d89fc3a883de2cc
+LAGOS,166548,176846,20,11,OSHODI/ISOLO (LGA: 18) - LAGOS,890,869,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399e4d89fc3a883de2ca
+KWARA,166548,176846,16,11,BARUTEN (LGA: 02) - KWARA,230,203,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399c4d89fc3a883de2aa
+KWARA,166548,176846,16,12,ILORIN-WEST (LGA: 08) - KWARA,464,380,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399d4d89fc3a883de2b0
+KWARA,166548,176846,16,17,ASA (LGA: 01) - KWARA,145,77,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399c4d89fc3a883de2a9
+KWARA,166548,176846,16,18,IFELODUN (LGA: 05) - KWARA,236,161,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399c4d89fc3a883de2ad
+KWARA,166548,176846,16,10,EKITI (LGA: 04) - KWARA,76,76,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399c4d89fc3a883de2ac
+KWARA,166548,176846,16,10,EDU (LGA: 03) - KWARA,175,165,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399c4d89fc3a883de2ab
+KWARA,166548,176846,16,11,ILORIN-SOUTH (LGA: 07) - KWARA,275,274,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399c4d89fc3a883de2af
+KWARA,166548,176846,16,12,ILORIN EAST (LGA: 06) - KWARA,320,320,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399c4d89fc3a883de2ae
+KWARA,166548,176846,16,12,OFFA (LGA: 13) - KWARA,173,128,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399d4d89fc3a883de2b5
+KWARA,166548,176846,16,17,MORO (LGA: 12) - KWARA,142,67,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399d4d89fc3a883de2b4
+KWARA,166548,176846,16,11,IREPODUN (LGA: 09) - KWARA,158,156,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399d4d89fc3a883de2b1
+KWARA,166548,176846,16,11,ISIN (LGA: 10) - KWARA,80,78,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399d4d89fc3a883de2b2
+KWARA,166548,176846,16,10,OKE - ERO (LGA: 14) - KWARA,76,76,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399d4d89fc3a883de2b6
+KWARA,166548,176846,16,10,KAIAMA (LGA: 11) - KWARA,124,124,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399d4d89fc3a883de2b3
+KWARA,166548,176846,16,11,OYUN (LGA: 15) - KWARA,108,108,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399d4d89fc3a883de2b7
+KWARA,166548,176846,16,10,PATIGI (LGA: 16) - KWARA,105,68,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399d4d89fc3a883de2b8
+KOGI,166548,176846,21,10,BASSA (LGA: 04) - KOGI,130,96,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399b4d89fc3a883de297
+KOGI,166548,176846,21,11,ADAVI (LGA: 01) - KOGI,217,215,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399b4d89fc3a883de294
+KOGI,166548,176846,21,14,AJAOKUTA (LGA: 02) - KOGI,146,144,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399b4d89fc3a883de295
+KOGI,166548,176846,21,13,ANKPA (LGA: 03) - KOGI,292,292,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399b4d89fc3a883de296
+KOGI,166548,176846,21,12,DEKINA (LGA: 05) - KOGI,352,333,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399b4d89fc3a883de298
+KOGI,166548,176846,21,10,IDAH (LGA: 07) - KOGI,120,117,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399b4d89fc3a883de29a
+KOGI,166548,176846,21,10,IBAJI (LGA: 06) - KOGI,174,174,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399b4d89fc3a883de299
+KOGI,166548,176846,21,10,LOKOJA (LGA: 12) - KOGI,273,273,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399b4d89fc3a883de29f
+KOGI,166548,176846,21,10,IGALAMELA/ODOLU (LGA: 08) - KOGI,140,140,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399b4d89fc3a883de29b
+KOGI,166548,176846,21,15,IJUMU (LGA: 09) - KOGI,121,121,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399b4d89fc3a883de29c
+KOGI,166548,176846,21,15,KABBA/BUNU (LGA: 10) - KOGI,156,145,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399b4d89fc3a883de29d
+KOGI,166548,176846,21,11,KOGI . K. K. (LGA: 11) - KOGI,105,105,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399b4d89fc3a883de29e
+KOGI,166548,176846,21,11,OKENE (LGA: 17) - KOGI,284,280,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399c4d89fc3a883de2a4
+KOGI,166548,176846,21,10,MOPA MORO (LGA: 13) - KOGI,53,46,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399c4d89fc3a883de2a0
+KOGI,166548,176846,21,11,OKEHI (LGA: 16) - KOGI,188,181,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399c4d89fc3a883de2a3
+KOGI,166548,176846,21,11,OFU (LGA: 14) - KOGI,184,184,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399c4d89fc3a883de2a1
+KOGI,166548,176846,21,10,OGORI MANGOGO (LGA: 15) - KOGI,67,63,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399c4d89fc3a883de2a2
+KOGI,166548,176846,21,11,OMALA (LGA: 19) - KOGI,148,131,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399c4d89fc3a883de2a6
+KOGI,166548,176846,21,10,YAGBA EAST (LGA: 20) - KOGI,82,82,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399c4d89fc3a883de2a7
+KOGI,166548,176846,21,10,OLAMABORO (LGA: 18) - KOGI,174,167,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399c4d89fc3a883de2a5
+KOGI,166548,176846,21,14,YAGBA WEST (LGA: 21) - KOGI,102,102,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399c4d89fc3a883de2a8
+KEBBI,166548,176846,21,11,ARGUNGU (LGA: 03) - KEBBI,246,242,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39994d89fc3a883de281
+KEBBI,166548,176846,21,11,BAGUDO (LGA: 05) - KEBBI,226,198,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399a4d89fc3a883de283
+KEBBI,166548,176846,21,11,AREWA (LGA: 02) - KEBBI,214,206,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39994d89fc3a883de280
+KEBBI,166548,176846,21,10,AUGIE (LGA: 04) - KEBBI,141,130,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399a4d89fc3a883de282
+KEBBI,166548,176846,21,11,DANDI (LGA: 08) - KEBBI,190,154,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399a4d89fc3a883de286
+KEBBI,166548,176846,21,15,BIRNIN KEBBI (LGA: 06) - KEBBI,385,377,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399a4d89fc3a883de284
+KEBBI,166548,176846,21,10,BUNZA (LGA: 07) - KEBBI,141,140,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399a4d89fc3a883de285
+KEBBI,166548,176846,21,10,GWANDU (LGA: 10) - KEBBI,156,136,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399a4d89fc3a883de288
+KEBBI,166548,176846,21,10,KALGO (LGA: 12) - KEBBI,104,71,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399a4d89fc3a883de28a
+KEBBI,166548,176846,21,10,FAKAI (LGA: 09) - KEBBI,109,104,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399a4d89fc3a883de287
+KEBBI,166548,176846,21,11,JEGA (LGA: 11) - KEBBI,232,203,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399a4d89fc3a883de289
+KEBBI,166548,176846,21,12,KOKO/BESSE (LGA: 13) - KEBBI,191,181,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399a4d89fc3a883de28b
+KEBBI,166548,176846,21,11,MAIYAMA (LGA: 14) - KEBBI,172,159,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399a4d89fc3a883de28c
+KEBBI,166548,176846,21,10,SHANGA (LGA: 17) - KEBBI,144,114,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399a4d89fc3a883de28f
+KEBBI,166548,176846,21,10,SAKABA (LGA: 16) - KEBBI,98,98,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399a4d89fc3a883de28e
+KEBBI,166548,176846,21,10,NGASKI (LGA: 15) - KEBBI,128,124,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399a4d89fc3a883de28d
+KEBBI,166548,176846,21,10,ZURU (LGA: 21) - KEBBI,200,196,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399b4d89fc3a883de293
+KEBBI,166548,176846,21,11,WASAGU/DANKO (LGA: 19) - KEBBI,229,193,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399b4d89fc3a883de291
+KEBBI,166548,176846,21,11,SURU (LGA: 18) - KEBBI,207,179,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399a4d89fc3a883de290
+KEBBI,166548,176846,21,10,YAURI (LGA: 20) - KEBBI,138,138,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f399b4d89fc3a883de292
+KEBBI,166548,176846,21,10,ALIERO (LGA: 01) - KEBBI,92,92,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39994d89fc3a883de27f
+KATSINA,166548,176846,34,10,BATAGARAWA (LGA: 02) - KATSINA,186,177,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39974d89fc3a883de25e
+KATSINA,166548,176846,34,11,BATSARI (LGA: 03) - KATSINA,219,219,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39974d89fc3a883de25f
+KATSINA,166548,176846,34,11,BAKORI (LGA: 01) - KATSINA,242,242,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39974d89fc3a883de25d
+KATSINA,166548,176846,34,12,BAURE (LGA: 04) - KATSINA,212,212,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39974d89fc3a883de260
+KATSINA,166548,176846,34,11,BINDAWA (LGA: 05) - KATSINA,169,169,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39974d89fc3a883de261
+KATSINA,166548,176846,34,11,DAN MUSA (LGA: 09) - KATSINA,165,165,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39984d89fc3a883de265
+KATSINA,166548,176846,34,11,DANDUME (LGA: 07) - KATSINA,177,176,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39984d89fc3a883de263
+KATSINA,166548,176846,34,11,FUNTUA (LGA: 14) - KATSINA,298,298,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39984d89fc3a883de26a
+KATSINA,166548,176846,34,10,DANJA (LGA: 08) - KATSINA,192,192,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39984d89fc3a883de264
+KATSINA,166548,176846,34,10,CHARANCHI (LGA: 06) - KATSINA,141,141,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39984d89fc3a883de262
+KATSINA,166548,176846,34,11,DAURA (LGA: 10) - KATSINA,185,185,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39984d89fc3a883de266
+KATSINA,166548,176846,34,10,DUTSI (LGA: 11) - KATSINA,118,118,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39984d89fc3a883de267
+KATSINA,166548,176846,34,11,DUTSIN-MA (LGA: 12) - KATSINA,209,208,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39984d89fc3a883de268
+KATSINA,166548,176846,34,10,FASKARI (LGA: 13) - KATSINA,231,226,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39984d89fc3a883de269
+KATSINA,166548,176846,34,11,INGAWA (LGA: 15) - KATSINA,170,170,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39984d89fc3a883de26b
+KATSINA,166548,176846,34,11,JIBIA (LGA: 16) - KATSINA,203,193,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39984d89fc3a883de26c
+KATSINA,166548,176846,34,11,KANKARA (LGA: 19) - KATSINA,256,249,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39984d89fc3a883de26f
+KATSINA,166548,176846,34,10,KAITA (LGA: 18) - KATSINA,149,149,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39984d89fc3a883de26e
+KATSINA,166548,176846,34,10,MAI'ADUA (LGA: 24) - KATSINA,186,186,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39994d89fc3a883de274
+KATSINA,166548,176846,34,10,KANKIA (LGA: 20) - KATSINA,157,157,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39984d89fc3a883de270
+KATSINA,166548,176846,34,12,KATSINA (LGA: 21) - KATSINA,501,499,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39984d89fc3a883de271
+KATSINA,166548,176846,34,10,KAFUR (LGA: 17) - KATSINA,270,227,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39984d89fc3a883de26d
+KATSINA,166548,176846,34,10,KUSADA (LGA: 23) - KATSINA,114,114,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39994d89fc3a883de273
+KATSINA,166548,176846,34,11,MUSAWA (LGA: 29) - KATSINA,161,160,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39994d89fc3a883de279
+KATSINA,166548,176846,34,12,MALUFASHI (LGA: 25) - KATSINA,325,325,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39994d89fc3a883de275
+KATSINA,166548,176846,34,11,MANI (LGA: 26) - KATSINA,207,207,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39994d89fc3a883de276
+KATSINA,166548,176846,34,10,KURFI (LGA: 22) - KATSINA,140,140,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39994d89fc3a883de272
+KATSINA,166548,176846,34,10,MATAZU (LGA: 28) - KATSINA,132,132,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39994d89fc3a883de278
+KATSINA,166548,176846,34,10,ZANGO (LGA: 34) - KATSINA,135,135,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39994d89fc3a883de27e
+KATSINA,166548,176846,34,11,MASHI (LGA: 27) - KATSINA,186,185,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39994d89fc3a883de277
+KATSINA,166548,176846,34,10,RIMI (LGA: 30) - KATSINA,178,178,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39994d89fc3a883de27a
+KATSINA,166548,176846,34,10,SABUWA (LGA: 31) - KATSINA,125,125,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39994d89fc3a883de27b
+KATSINA,166548,176846,34,11,SANDAMU (LGA: 33) - KATSINA,145,145,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39994d89fc3a883de27d
+KATSINA,166548,176846,34,10,SAFANA (LGA: 32) - KATSINA,168,167,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39994d89fc3a883de27c
+KADUNA,166548,176846,23,12,CHIKUN (LGA: 02) - KADUNA,543,541,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39914d89fc3a883de21b
+KADUNA,166548,176846,23,11,BIRNIN GWARI (LGA: 01) - KADUNA,263,239,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39914d89fc3a883de21a
+KADUNA,166548,176846,23,10,IKARA (LGA: 05) - KADUNA,251,250,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39914d89fc3a883de21e
+KADUNA,166548,176846,23,12,IGABI (LGA: 04) - KADUNA,600,472,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39914d89fc3a883de21d
+KADUNA,166548,176846,23,13,KADUNA SOUTH (LGA: 10) - KADUNA,796,796,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39914d89fc3a883de223
+KADUNA,166548,176846,23,10,JABA (LGA: 06) - KADUNA,132,132,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39914d89fc3a883de21f
+KADUNA,166548,176846,23,12,KACHIA (LGA: 08) - KADUNA,317,240,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39914d89fc3a883de221
+KADUNA,166548,176846,23,12,KADUNA NORTH (LGA: 09) - KADUNA,704,537,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39914d89fc3a883de222
+KADUNA,166548,176846,23,11,KAURU (LGA: 14) - KADUNA,243,243,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39914d89fc3a883de227
+KADUNA,166548,176846,23,10,KAURA (LGA: 13) - KADUNA,186,185,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39914d89fc3a883de226
+KADUNA,166548,176846,23,11,KUBAU (LGA: 15) - KADUNA,310,308,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39924d89fc3a883de228
+KADUNA,166548,176846,23,10,KAGARKO (LGA: 11) - KADUNA,222,221,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39914d89fc3a883de224
+KADUNA,166548,176846,23,11,SABON GARI (LGA: 19) - KADUNA,398,396,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39924d89fc3a883de22c
+KADUNA,166548,176846,23,11,GIWA (LGA: 03) - KADUNA,262,257,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39914d89fc3a883de21c
+KADUNA,166548,176846,23,11,SANGA (LGA: 20) - KADUNA,195,194,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39924d89fc3a883de22d
+KADUNA,166548,176846,23,10,MAKARFI (LGA: 18) - KADUNA,208,192,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39924d89fc3a883de22b
+KADUNA,166548,176846,23,12,JEMA'A (LGA: 07) - KADUNA,325,313,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39914d89fc3a883de220
+KADUNA,166548,176846,23,10,KUDAN (LGA: 16) - KADUNA,193,193,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39924d89fc3a883de229
+KADUNA,166548,176846,23,13,ZARIA (LGA: 23) - KADUNA,584,577,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39924d89fc3a883de230
+KADUNA,166548,176846,23,10,KAJURU (LGA: 12) - KADUNA,188,188,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39914d89fc3a883de225
+KADUNA,166548,176846,23,11,SOBA (LGA: 21) - KADUNA,298,297,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39924d89fc3a883de22e
+KADUNA,166548,176846,23,11,LERE (LGA: 17) - KADUNA,457,457,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39924d89fc3a883de22a
+KADUNA,166548,176846,23,11,ZANGON KATAF (LGA: 22) - KADUNA,337,329,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39924d89fc3a883de22f
+KANO,166548,176846,44,10,ALBASU (LGA: 02) - KANO,185,168,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39924d89fc3a883de232
+KANO,166548,176846,44,14,BEBEJI (LGA: 04) - KANO,161,148,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39924d89fc3a883de234
+KANO,166548,176846,44,10,BAGWAI (LGA: 03) - KANO,186,183,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39924d89fc3a883de233
+KANO,166548,176846,44,10,AJINGI (LGA: 01) - KANO,175,171,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39924d89fc3a883de231
+KANO,166548,176846,44,11,BICHI (LGA: 05) - KANO,277,240,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39924d89fc3a883de235
+KANO,166548,176846,44,11,DAWAKI TOFA (LGA: 10) - KANO,224,221,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39934d89fc3a883de23a
+KANO,166548,176846,44,10,BUNKURE (LGA: 06) - KANO,183,147,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39924d89fc3a883de236
+KANO,166548,176846,44,10,DANBATA (LGA: 08) - KANO,237,237,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39924d89fc3a883de238
+KANO,166548,176846,44,15,DAWAKI KUDU (LGA: 09) - KANO,303,270,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39934d89fc3a883de239
+KANO,166548,176846,44,10,GARUN MALAM (LGA: 15) - KANO,151,151,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39934d89fc3a883de23f
+KANO,166548,176846,44,12,DALA (LGA: 07) - KANO,668,634,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39924d89fc3a883de237
+KANO,166548,176846,44,10,DOGUWA (LGA: 11) - KANO,149,148,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39934d89fc3a883de23b
+KANO,166548,176846,44,11,GABASAWA (LGA: 13) - KANO,164,113,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39934d89fc3a883de23d
+KANO,166548,176846,44,10,GARKO (LGA: 14) - KANO,190,190,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39934d89fc3a883de23e
+KANO,166548,176846,44,10,KABO (LGA: 20) - KANO,188,142,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39934d89fc3a883de244
+KANO,166548,176846,44,10,FAGGE (LGA: 12) - KANO,521,498,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39934d89fc3a883de23c
+KANO,166548,176846,44,10,GWALE (LGA: 18) - KANO,450,450,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39934d89fc3a883de242
+KANO,166548,176846,44,10,GAYA (LGA: 16) - KANO,206,173,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39934d89fc3a883de240
+KANO,166548,176846,44,10,GWARZO (LGA: 19) - KANO,210,210,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39934d89fc3a883de243
+KANO,166548,176846,44,11,KUMBOTSO (LGA: 25) - KANO,410,396,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39944d89fc3a883de249
+KANO,166548,176846,44,15,KIRU (LGA: 24) - KANO,246,246,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39944d89fc3a883de248
+KANO,166548,176846,44,11,GEZAWA (LGA: 17) - KANO,229,221,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39934d89fc3a883de241
+KANO,166548,176846,44,10,KIBIYA (LGA: 23) - KANO,149,147,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39944d89fc3a883de247
+KANO,166548,176846,44,11,MAKODA (LGA: 29) - KANO,145,138,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39954d89fc3a883de24d
+KANO,166548,176846,44,13,KANO MUNICIPAL (LGA: 21) - KANO,630,369,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39934d89fc3a883de245
+KANO,166548,176846,44,11,MINJIBIR (LGA: 30) - KANO,172,172,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39954d89fc3a883de24e
+KANO,166548,176846,44,10,KARAYE (LGA: 22) - KANO,169,94,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39934d89fc3a883de246
+KANO,166548,176846,44,12,MADOBI (LGA: 28) - KANO,171,171,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39944d89fc3a883de24c
+KANO,166548,176846,44,10,KUNCHI (LGA: 26) - KANO,142,104,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39944d89fc3a883de24a
+KANO,166548,176846,44,10,SHANONO (LGA: 35) - KANO,151,123,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39964d89fc3a883de253
+KANO,166548,176846,44,12,RIMIN GADO (LGA: 33) - KANO,136,136,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39964d89fc3a883de251
+KANO,166548,176846,44,11,NASARAWA (LGA: 31) - KANO,817,803,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39954d89fc3a883de24f
+KANO,166548,176846,44,10,KURA (LGA: 27) - KANO,217,183,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39944d89fc3a883de24b
+KANO,166548,176846,44,10,ROGO (LGA: 34) - KANO,220,202,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39964d89fc3a883de252
+KANO,166548,176846,44,10,TSANYAWA (LGA: 40) - KANO,157,154,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39974d89fc3a883de258
+KANO,166548,176846,44,10,RANO (LGA: 32) - KANO,165,165,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39954d89fc3a883de250
+KANO,166548,176846,44,11,SUMAILA (LGA: 36) - KANO,221,156,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39964d89fc3a883de254
+KANO,166548,176846,44,15,TOFA (LGA: 39) - KANO,147,141,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39974d89fc3a883de257
+KANO,166548,176846,44,10,TARAUNI (LGA: 38) - KANO,425,421,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39974d89fc3a883de256
+KANO,166548,176846,44,10,WUDIL (LGA: 44) - KANO,216,216,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39974d89fc3a883de25c
+KANO,166548,176846,44,11,TUDUN WADA (LGA: 41) - KANO,281,241,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39974d89fc3a883de259
+KANO,166548,176846,44,10,TAKAI (LGA: 37) - KANO,251,101,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39964d89fc3a883de255
+KANO,166548,176846,44,15,WARAWA (LGA: 43) - KANO,143,133,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39974d89fc3a883de25b
+KANO,166548,176846,44,11,UNGOGO (LGA: 42) - KANO,384,362,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39974d89fc3a883de25a
+JIGAWA,166548,176846,27,11,GWARAM (LGA: 11) - JIGAWA,298,298,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39904d89fc3a883de209
+JIGAWA,166548,176846,27,11,HADEJIA (LGA: 13) - JIGAWA,138,138,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39904d89fc3a883de20b
+JIGAWA,166548,176846,27,11,KAUGAMA (LGA: 16) - JIGAWA,161,160,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39904d89fc3a883de20e
+JIGAWA,166548,176846,27,10,KIRIKA SAMMA (LGA: 18) - JIGAWA,149,124,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39904d89fc3a883de210
+JIGAWA,166548,176846,27,11,MALAM MADORI (LGA: 21) - JIGAWA,154,153,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39904d89fc3a883de213
+JIGAWA,166548,176846,27,10,RINGIM (LGA: 23) - JIGAWA,240,179,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39904d89fc3a883de215
+JIGAWA,166548,176846,27,11,GUMEL (LGA: 09) - JIGAWA,103,102,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398f4d89fc3a883de207
+JIGAWA,166548,176846,27,10,TAURA (LGA: 26) - JIGAWA,157,157,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39904d89fc3a883de218
+JIGAWA,166548,176846,27,10,GURI (LGA: 10) - JIGAWA,113,113,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398f4d89fc3a883de208
+JIGAWA,166548,176846,27,11,JAHUN (LGA: 14) - JIGAWA,232,174,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39904d89fc3a883de20c
+JIGAWA,166548,176846,27,11,KAFIN HAUSA (LGA: 15) - JIGAWA,239,239,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39904d89fc3a883de20d
+JIGAWA,166548,176846,27,11,KIYAWA (LGA: 19) - JIGAWA,188,188,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39904d89fc3a883de211
+JIGAWA,166548,176846,27,11,GWIWA (LGA: 12) - JIGAWA,112,112,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39904d89fc3a883de20a
+JIGAWA,166548,176846,27,11,KAZAURE (LGA: 17) - JIGAWA,144,144,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39904d89fc3a883de20f
+JIGAWA,166548,176846,27,11,MAIGATARI (LGA: 20) - JIGAWA,161,161,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39904d89fc3a883de212
+JIGAWA,166548,176846,27,11,RONI (LGA: 24) - JIGAWA,110,110,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39904d89fc3a883de216
+JIGAWA,166548,176846,27,10,SULE-TANKARKAR (LGA: 25) - JIGAWA,167,166,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39904d89fc3a883de217
+JIGAWA,166548,176846,27,10,MIGA (LGA: 22) - JIGAWA,113,113,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39904d89fc3a883de214
+JIGAWA,166548,176846,27,10,YANKWASHI (LGA: 27) - JIGAWA,77,77,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39914d89fc3a883de219
+JIGAWA,166548,176846,27,10,AUYO (LGA: 01) - JIGAWA,137,137,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398f4d89fc3a883de1ff
+JIGAWA,166548,176846,27,10,BUJI (LGA: 05) - JIGAWA,117,66,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398f4d89fc3a883de203
+JIGAWA,166548,176846,27,11,DUTSE (LGA: 06) - JIGAWA,267,265,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398f4d89fc3a883de204
+JIGAWA,166548,176846,27,10,GAGARAWA (LGA: 08) - JIGAWA,89,89,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398f4d89fc3a883de206
+JIGAWA,166548,176846,27,11,BABURA (LGA: 02) - JIGAWA,214,214,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398f4d89fc3a883de200
+JIGAWA,166548,176846,27,11,BIRNIWA (LGA: 04) - JIGAWA,148,138,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398f4d89fc3a883de202
+JIGAWA,166548,176846,27,11,BIRNIN KUDU (LGA: 03) - JIGAWA,322,284,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398f4d89fc3a883de201
+JIGAWA,166548,176846,27,11,GARKI (LGA: 07) - JIGAWA,172,172,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398f4d89fc3a883de205
+IMO,166548,176846,27,12,EZINIHITTE MBAISE (LGA: 04) - IMO,175,100,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398d4d89fc3a883de1e7
+IMO,166548,176846,27,12,ABOH MBAISE (LGA: 01) - IMO,212,105,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398d4d89fc3a883de1e4
+IMO,166548,176846,27,13,IDEATO SOUTH (LGA: 06) - IMO,152,143,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398e4d89fc3a883de1e9
+IMO,166548,176846,27,12,AHIAZU MBAISE (LGA: 02) - IMO,185,185,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398d4d89fc3a883de1e5
+IMO,166548,176846,27,12,IKEDURU (IHO) (LGA: 08) - IMO,227,203,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398e4d89fc3a883de1eb
+IMO,166548,176846,27,14,IDEATO NORTH (LGA: 05) - IMO,196,196,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398d4d89fc3a883de1e8
+IMO,166548,176846,27,12,MBAITOLI (NWAORIEUBI) (LGA: 11) - IMO,287,245,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398e4d89fc3a883de1ee
+IMO,166548,176846,27,11,ISU (UMUNDUGBA) (LGA: 10) - IMO,123,122,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398e4d89fc3a883de1ed
+IMO,166548,176846,27,11,NJABA (NNENASA) (LGA: 13) - IMO,134,115,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398e4d89fc3a883de1f0
+IMO,166548,176846,27,12,ISIALA MBANO (UMUELEMAI) (LGA: 09) - IMO,196,185,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398e4d89fc3a883de1ec
+IMO,166548,176846,27,11,NWANGELE (ONU-NWANGELE AMAIGBO) (LGA: 15) - IMO,113,106,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398e4d89fc3a883de1f2
+IMO,166548,176846,27,12,OHAJI/EGBEMA (MMAHU-EGBEMA) (LGA: 18) - IMO,210,145,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398e4d89fc3a883de1f5
+IMO,166548,176846,27,10,NKWERRE (LGA: 14) - IMO,131,131,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398e4d89fc3a883de1f1
+IMO,166548,176846,27,10,OBOWO (OTOKO) (LGA: 16) - IMO,128,114,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398e4d89fc3a883de1f3
+IMO,166548,176846,27,11,EHIME MBANO (LGA: 03) - IMO,154,119,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398d4d89fc3a883de1e6
+IMO,166548,176846,27,10,ORU-EAST (LGA: 23) - IMO,171,147,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398f4d89fc3a883de1fa
+IMO,166548,176846,27,11,OKIGWE  (OKIGWE) (LGA: 19) - IMO,154,99,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398e4d89fc3a883de1f6
+IMO,166548,176846,27,13,ORLU (LGA: 21) - IMO,209,205,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398e4d89fc3a883de1f8
+IMO,166548,176846,27,10,ONUIMO (OKWE) (LGA: 20) - IMO,97,80,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398e4d89fc3a883de1f7
+IMO,166548,176846,27,10,IHITTE/UBOMA (ISINWEKE) (LGA: 07) - IMO,117,117,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398e4d89fc3a883de1ea
+IMO,166548,176846,27,11,OWERRI MUNICIPAL (LGA: 25) - IMO,239,227,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398f4d89fc3a883de1fc
+IMO,166548,176846,27,10,ORU WEST (MGBIDI) (LGA: 24) - IMO,147,65,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398f4d89fc3a883de1fb
+IMO,166548,176846,27,12,OWERRI NORTH (ORIE URATTA) (LGA: 26) - IMO,236,229,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398f4d89fc3a883de1fd
+IMO,166548,176846,27,11,NGOR OKPALA (UMUNEKE) (LGA: 12) - IMO,193,189,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398e4d89fc3a883de1ef
+IMO,166548,176846,27,11,OGUTA (OGUTA) (LGA: 17) - IMO,184,153,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398e4d89fc3a883de1f4
+IMO,166548,176846,27,11,ORSU (AWO IDEMILI) (LGA: 22) - IMO,137,136,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398e4d89fc3a883de1f9
+IMO,166548,176846,27,10,OWERRI WEST (UMUGUMA) (LGA: 27) - IMO,251,251,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398f4d89fc3a883de1fe
+GOMBE,166548,176846,11,10,BALANGA (LGA: 02) - GOMBE,254,254,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398d4d89fc3a883de1da
+GOMBE,166548,176846,11,10,FUNAKAYE (LGA: 05) - GOMBE,258,258,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398d4d89fc3a883de1dd
+GOMBE,166548,176846,11,10,BILLIRI (LGA: 03) - GOMBE,202,202,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398d4d89fc3a883de1db
+GOMBE,166548,176846,11,11,DUKKU (LGA: 04) - GOMBE,260,260,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398d4d89fc3a883de1dc
+GOMBE,166548,176846,11,10,NAFADA (LGA: 09) - GOMBE,131,131,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398d4d89fc3a883de1e1
+GOMBE,166548,176846,11,10,SHONGOM (LGA: 10) - GOMBE,122,122,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398d4d89fc3a883de1e2
+GOMBE,166548,176846,11,10,KWAMI (LGA: 08) - GOMBE,237,237,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398d4d89fc3a883de1e0
+GOMBE,166548,176846,11,11,GOMBE (LGA: 06) - GOMBE,408,405,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398d4d89fc3a883de1de
+GOMBE,166548,176846,11,10,KALTUNGO (LGA: 07) - GOMBE,247,247,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398d4d89fc3a883de1df
+GOMBE,166548,176846,11,11,YALMALTU/ DEBA (LGA: 11) - GOMBE,401,401,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398d4d89fc3a883de1e3
+GOMBE,166548,176846,11,11,AKKO (LGA: 01) - GOMBE,468,468,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398c4d89fc3a883de1d9
+FCT,166548,176846,6,10,GWAGWALADA (LGA: 03) - FCT,338,335,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398c4d89fc3a883de1d5
+FCT,166548,176846,6,10,ABAJI (LGA: 01) - FCT,135,134,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398c4d89fc3a883de1d3
+FCT,166548,176846,6,12,MUNICIPAL (LGA: 06) - FCT,1401,1366,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398c4d89fc3a883de1d8
+FCT,166548,176846,6,10,KWALI (LGA: 05) - FCT,201,196,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398c4d89fc3a883de1d7
+FCT,166548,176846,6,10,KUJE (LGA: 04) - FCT,262,248,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398c4d89fc3a883de1d6
+FCT,166548,176846,6,10,BWARI (LGA: 02) - FCT,485,484,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398c4d89fc3a883de1d4
+ENUGU,166548,176846,17,10,ANINRI (LGA: 01) - ENUGU,153,153,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398b4d89fc3a883de1c2
+ENUGU,166548,176846,17,13,ENUGU NORTH (LGA: 04) - ENUGU,393,393,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398b4d89fc3a883de1c5
+ENUGU,166548,176846,17,12,ENUGU EAST (LGA: 03) - ENUGU,386,386,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398b4d89fc3a883de1c4
+ENUGU,166548,176846,17,13,ENUGU SOUTH (LGA: 05) - ENUGU,321,321,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398b4d89fc3a883de1c6
+ENUGU,166548,176846,17,20,IGBO ETITI (LGA: 07) - ENUGU,201,201,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398b4d89fc3a883de1c8
+ENUGU,166548,176846,17,20,EZEAGU (LGA: 06) - ENUGU,180,180,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398b4d89fc3a883de1c7
+ENUGU,166548,176846,17,11,AWGU (LGA: 02) - ENUGU,240,240,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398b4d89fc3a883de1c3
+ENUGU,166548,176846,17,11,ISI UZO (LGA: 10) - ENUGU,159,159,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398c4d89fc3a883de1cb
+ENUGU,166548,176846,17,16,IGBO EZE SOUTH (LGA: 09) - ENUGU,213,213,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398c4d89fc3a883de1ca
+ENUGU,166548,176846,17,10,UDENU (LGA: 15) - ENUGU,265,265,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398c4d89fc3a883de1d0
+ENUGU,166548,176846,17,14,NKANU WEST (LGA: 12) - ENUGU,207,207,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398c4d89fc3a883de1cd
+ENUGU,166548,176846,17,20,IGBO EZE NORTH (LGA: 08) - ENUGU,266,265,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398b4d89fc3a883de1c9
+ENUGU,166548,176846,17,14,NKANU EAST (LGA: 11) - ENUGU,164,164,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398c4d89fc3a883de1cc
+ENUGU,166548,176846,17,20,OJI-RIVER (LGA: 14) - ENUGU,175,174,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398c4d89fc3a883de1cf
+ENUGU,166548,176846,17,20,UDI (LGA: 16) - ENUGU,279,279,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398c4d89fc3a883de1d1
+ENUGU,166548,176846,17,20,NSUKKA (LGA: 13) - ENUGU,397,397,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398c4d89fc3a883de1ce
+ENUGU,166548,176846,17,16,UZO-UWANI (LGA: 17) - ENUGU,146,146,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398c4d89fc3a883de1d2
+EKITI,166548,176846,16,11,EKITI WEST (LGA: 04) - EKITI,184,184,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398a4d89fc3a883de1b5
+EKITI,166548,176846,16,13,ADO EKITI (LGA: 01) - EKITI,344,344,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398a4d89fc3a883de1b2
+EKITI,166548,176846,16,11,EKITI SOUTH WEST (LGA: 05) - EKITI,188,188,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398a4d89fc3a883de1b6
+EKITI,166548,176846,16,12,EKITI EAST (LGA: 03) - EKITI,112,112,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398a4d89fc3a883de1b4
+EKITI,166548,176846,16,10,EFON (LGA: 02) - EKITI,119,119,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398a4d89fc3a883de1b3
+EKITI,166548,176846,16,11,IDO / OSI (LGA: 08) - EKITI,144,144,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398b4d89fc3a883de1b9
+EKITI,166548,176846,16,10,EMURE (LGA: 06) - EKITI,94,94,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398a4d89fc3a883de1b7
+EKITI,166548,176846,16,11,IREPODUN / IFELODUN (LGA: 13) - EKITI,174,174,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398b4d89fc3a883de1be
+EKITI,166548,176846,16,12,IJERO (LGA: 09) - EKITI,145,145,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398b4d89fc3a883de1ba
+EKITI,166548,176846,16,10,GBONYIN (LGA: 07) - EKITI,115,115,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398a4d89fc3a883de1b8
+EKITI,166548,176846,16,11,IKERE (LGA: 10) - EKITI,125,125,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398b4d89fc3a883de1bb
+EKITI,166548,176846,16,12,IKOLE (LGA: 11) - EKITI,189,189,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398b4d89fc3a883de1bc
+EKITI,166548,176846,16,10,ILEJEMEJE (LGA: 12) - EKITI,91,91,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398b4d89fc3a883de1bd
+EKITI,166548,176846,16,11,MOBA (LGA: 15) - EKITI,116,116,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398b4d89fc3a883de1c0
+EKITI,166548,176846,16,10,ISE / ORUN (LGA: 14) - EKITI,114,114,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398b4d89fc3a883de1bf
+EKITI,166548,176846,16,12,OYE (LGA: 16) - EKITI,191,191,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398b4d89fc3a883de1c1
+EDO,166548,176846,18,10,ESAN CENTRAL (LGA: 03) - EDO,117,117,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39894d89fc3a883de1a2
+EDO,166548,176846,18,10,EGOR (LGA: 02) - EDO,436,436,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39894d89fc3a883de1a1
+EDO,166548,176846,18,10,AKOKO EDO (LGA: 01) - EDO,241,196,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39894d89fc3a883de1a0
+EDO,166548,176846,18,10,ESAN SOUTH EAST (LGA: 05) - EDO,160,141,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39894d89fc3a883de1a4
+EDO,166548,176846,18,11,ESAN NORTH EAST (LGA: 04) - EDO,172,172,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39894d89fc3a883de1a3
+EDO,166548,176846,18,12,ETSAKO  WEST (LGA: 09) - EDO,322,320,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39894d89fc3a883de1a8
+EDO,166548,176846,18,10,IGUEBEN (LGA: 10) - EDO,95,95,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398a4d89fc3a883de1a9
+EDO,166548,176846,18,10,ESAN WEST (LGA: 06) - EDO,200,200,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39894d89fc3a883de1a5
+EDO,166548,176846,18,10,ETSAKO CENTRAL (LGA: 07) - EDO,104,93,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39894d89fc3a883de1a6
+EDO,166548,176846,18,13,OVIA NORTH EAST (LGA: 14) - EDO,292,292,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398a4d89fc3a883de1ad
+EDO,166548,176846,18,10,ETSAKO EAST (LGA: 08) - EDO,166,147,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39894d89fc3a883de1a7
+EDO,166548,176846,18,10,OVIA SOUTH WEST (LGA: 15) - EDO,195,195,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398a4d89fc3a883de1ae
+EDO,166548,176846,18,12,OREDO (LGA: 12) - EDO,619,619,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398a4d89fc3a883de1ab
+EDO,166548,176846,18,12,ORHIONMWON (LGA: 13) - EDO,265,265,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398a4d89fc3a883de1ac
+EDO,166548,176846,18,10,IKPOBA/OKHA (LGA: 11) - EDO,641,641,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398a4d89fc3a883de1aa
+EDO,166548,176846,18,11,OWAN EAST (LGA: 16) - EDO,189,189,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398a4d89fc3a883de1af
+EDO,166548,176846,18,11,OWAN WEST (LGA: 17) - EDO,151,42,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398a4d89fc3a883de1b0
+EDO,166548,176846,18,10,UHUNMWODE (LGA: 18) - EDO,154,154,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f398a4d89fc3a883de1b1
+EBONYI,166548,176846,13,14,ABAKALIKI (LGA: 01) - EBONYI,297,297,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39884d89fc3a883de193
+EBONYI,166548,176846,13,13,EBONYI (LGA: 04) - EBONYI,229,229,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39884d89fc3a883de196
+EBONYI,166548,176846,13,12,AFIKPO NORTH (LGA: 02) - EBONYI,199,199,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39884d89fc3a883de194
+EBONYI,166548,176846,13,11,AFIKPO  SOUTH (LGA: 03) - EBONYI,160,160,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39884d89fc3a883de195
+EBONYI,166548,176846,13,11,EZZA SOUTH (LGA: 06) - EBONYI,189,189,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39884d89fc3a883de198
+EBONYI,166548,176846,13,11,EZZA NORTH (LGA: 05) - EBONYI,207,188,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39884d89fc3a883de197
+EBONYI,166548,176846,13,16,ISHIELU (LGA: 08) - EBONYI,243,243,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39894d89fc3a883de19a
+EBONYI,166548,176846,13,14,IZZI (LGA: 10) - EBONYI,299,299,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39894d89fc3a883de19c
+EBONYI,166548,176846,13,20,IKWO (LGA: 07) - EBONYI,308,306,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39894d89fc3a883de199
+EBONYI,166548,176846,13,12,ONICHA (LGA: 13) - EBONYI,217,216,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39894d89fc3a883de19f
+EBONYI,166548,176846,13,11,IVO (LGA: 09) - EBONYI,124,124,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39894d89fc3a883de19b
+EBONYI,166548,176846,13,11,OHAOZARA (LGA: 11) - EBONYI,170,168,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39894d89fc3a883de19d
+EBONYI,166548,176846,13,15,OHAUKWU (LGA: 12) - EBONYI,304,303,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39894d89fc3a883de19e
+BORNO,166548,176846,27,12,NGANZAI (LGA: 26) - BORNO,94,94,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39854d89fc3a883de166
+BORNO,166548,176846,27,11,SHANI (LGA: 27) - BORNO,144,125,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39854d89fc3a883de167
+BORNO,166548,176846,27,10,ABADAM (LGA: 01) - BORNO,93,89,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39844d89fc3a883de14d
+BORNO,166548,176846,27,11,BIU (LGA: 05) - BORNO,270,270,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39844d89fc3a883de151
+BORNO,166548,176846,27,13,ASKIRA / UBA (LGA: 02) - BORNO,260,260,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39844d89fc3a883de14e
+BORNO,166548,176846,27,10,DAMBOA (LGA: 07) - BORNO,189,189,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39844d89fc3a883de153
+BORNO,166548,176846,27,11,CHIBOK (LGA: 06) - BORNO,118,118,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39844d89fc3a883de152
+BORNO,166548,176846,27,10,GUZAMALA (LGA: 10) - BORNO,87,87,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39844d89fc3a883de156
+BORNO,166548,176846,27,13,GWOZA (LGA: 11) - BORNO,304,304,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39844d89fc3a883de157
+BORNO,166548,176846,27,11,KONDUGA (LGA: 16) - BORNO,230,230,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39854d89fc3a883de15c
+BORNO,166548,176846,27,12,HAWUL (LGA: 12) - BORNO,215,215,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39844d89fc3a883de158
+BORNO,166548,176846,27,10,KALA BALGE (LGA: 15) - BORNO,100,100,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39854d89fc3a883de15b
+BORNO,166548,176846,27,10,BAYO (LGA: 04) - BORNO,95,95,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39844d89fc3a883de150
+BENUE,166548,176846,23,10,AGATU (LGA: 02) - BENUE,112,112,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39824d89fc3a883de137
+BENUE,166548,176846,23,17,GBOKO (LGA: 05) - BENUE,475,332,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39834d89fc3a883de13a
+BORNO,166548,176846,27,10,KUKAWA (LGA: 17) - BORNO,131,131,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39854d89fc3a883de15d
+BORNO,166548,176846,27,13,MAGUMERI (LGA: 20) - BORNO,99,99,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39854d89fc3a883de160
+BENUE,166548,176846,23,11,APA (LGA: 03) - BENUE,124,124,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39824d89fc3a883de138
+BENUE,166548,176846,23,13,BURUKU (LGA: 04) - BENUE,240,240,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39824d89fc3a883de139
+BENUE,166548,176846,23,14,GWER EAST (LGA: 07) - BENUE,189,163,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39834d89fc3a883de13c
+BORNO,166548,176846,27,15,MAIDUGURI M. C. (LGA: 21) - BORNO,886,886,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39854d89fc3a883de161
+BORNO,166548,176846,27,13,MARTE (LGA: 22) - BORNO,135,135,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39854d89fc3a883de162
+BORNO,166548,176846,27,10,GUBIO (LGA: 09) - BORNO,121,121,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39844d89fc3a883de155
+BENUE,166548,176846,23,15,GWER WEST (LGA: 08) - BENUE,123,122,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39834d89fc3a883de13d
+BENUE,166548,176846,23,10,LOGO (LGA: 12) - BENUE,184,164,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39834d89fc3a883de141
+BENUE,166548,176846,23,11,MAKURDI (LGA: 13) - BENUE,562,562,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39834d89fc3a883de142
+BORNO,166548,176846,27,14,BAMA (LGA: 03) - BORNO,318,318,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39844d89fc3a883de14f
+BORNO,166548,176846,27,12,NGALA (LGA: 25) - BORNO,141,141,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39854d89fc3a883de165
+BENUE,166548,176846,23,11,KONSHISHA (LGA: 10) - BENUE,254,254,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39834d89fc3a883de13f
+BENUE,166548,176846,23,12,KATSINA-ALA (LGA: 09) - BENUE,296,296,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39834d89fc3a883de13e
+BORNO,166548,176846,27,10,DIKWA (LGA: 08) - BORNO,107,99,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39844d89fc3a883de154
+BORNO,166548,176846,27,15,KAGA (LGA: 14) - BORNO,109,109,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39854d89fc3a883de15a
+BENUE,166548,176846,23,13,OGBADIBO (LGA: 15) - BENUE,142,142,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39834d89fc3a883de144
+BENUE,166548,176846,23,12,OBI (LGA: 14) - BENUE,120,120,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39834d89fc3a883de143
+BENUE,166548,176846,23,10,ADO (LGA: 01) - BENUE,157,147,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39824d89fc3a883de136
+BORNO,166548,176846,27,12,MAFA (LGA: 19) - BORNO,127,127,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39854d89fc3a883de15f
+BORNO,166548,176846,27,12,JERE (LGA: 13) - BORNO,386,379,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39844d89fc3a883de159
+BENUE,166548,176846,23,10,OHIMINI (LGA: 17) - BENUE,87,86,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39834d89fc3a883de146
+BENUE,166548,176846,23,12,OKPOKWU (LGA: 18) - BENUE,147,147,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39834d89fc3a883de147
+BENUE,166548,176846,23,10,TARKA (LGA: 20) - BENUE,96,96,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39844d89fc3a883de149
+BORNO,166548,176846,27,12,MONGUNO (LGA: 24) - BORNO,109,108,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39854d89fc3a883de164
+BORNO,166548,176846,27,10,KWAYA / KUSAR (LGA: 18) - BORNO,105,105,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39854d89fc3a883de15e
+BORNO,166548,176846,27,10,MOBBAR (LGA: 23) - BORNO,98,98,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39854d89fc3a883de163
+BENUE,166548,176846,23,12,VANDEIKYA (LGA: 23) - BENUE,286,274,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39844d89fc3a883de14c
+BENUE,166548,176846,23,13,OTUKPO (LGA: 19) - BENUE,280,268,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39834d89fc3a883de148
+BENUE,166548,176846,23,11,USHONGO (LGA: 22) - BENUE,213,213,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39844d89fc3a883de14b
+BENUE,166548,176846,23,10,GUMA (LGA: 06) - BENUE,200,155,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39834d89fc3a883de13b
+BENUE,166548,176846,23,15,KWANDE (LGA: 11) - BENUE,339,334,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39834d89fc3a883de140
+BENUE,166548,176846,23,11,OJU (LGA: 16) - BENUE,204,204,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39834d89fc3a883de145
+BAYELSA,166548,176846,8,13,NEMBE (LGA: 04) - BAYELSA,228,224,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39824d89fc3a883de131
+BAYELSA,166548,176846,8,11,KOLOKUMA/OPOKUMA (LGA: 03) - BAYELSA,148,148,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39824d89fc3a883de130
+BAYELSA,166548,176846,8,12,EKEREMOR (LGA: 02) - BAYELSA,258,215,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39824d89fc3a883de12f
+BENUE,166548,176846,23,13,UKUM (LGA: 21) - BENUE,272,240,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39844d89fc3a883de14a
+BAYELSA,166548,176846,8,10,BRASS (LGA: 01) - BAYELSA,172,156,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39824d89fc3a883de12e
+BAYELSA,166548,176846,8,13,OGBIA (LGA: 05) - BAYELSA,301,294,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39824d89fc3a883de132
+BAYELSA,166548,176846,8,14,SAGBAMA (LGA: 06) - BAYELSA,244,243,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39824d89fc3a883de133
+BAYELSA,166548,176846,8,17,SOUTHERN IJAW (LGA: 07) - BAYELSA,466,466,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39824d89fc3a883de134
+BAYELSA,166548,176846,8,15,YENAGOA (LGA: 08) - BAYELSA,427,420,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39824d89fc3a883de135
+BAUCHI,166548,176846,20,11,ALKALERI (LGA: 01) - BAUCHI,300,300,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39804d89fc3a883de11a
+BAUCHI,166548,176846,20,12,BAUCHI (LGA: 02) - BAUCHI,894,894,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39804d89fc3a883de11b
+BAUCHI,166548,176846,20,10,DAMBAM (LGA: 04) - BAUCHI,163,162,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39814d89fc3a883de11d
+BAUCHI,166548,176846,20,10,BOGORO (LGA: 03) - BAUCHI,119,119,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39814d89fc3a883de11c
+BAUCHI,166548,176846,20,10,DASS (LGA: 06) - BAUCHI,116,116,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39814d89fc3a883de11f
+BAUCHI,166548,176846,20,11,DARAZO (LGA: 05) - BAUCHI,270,269,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39814d89fc3a883de11e
+BAUCHI,166548,176846,20,11,GANJUWA (LGA: 08) - BAUCHI,253,252,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39814d89fc3a883de121
+BAUCHI,166548,176846,20,10,GIADE (LGA: 09) - BAUCHI,145,145,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39814d89fc3a883de122
+BAUCHI,166548,176846,20,10,JAMA'ARE (LGA: 11) - BAUCHI,133,133,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39814d89fc3a883de124
+BAUCHI,166548,176846,20,10,ITAS/GADAU (LGA: 10) - BAUCHI,235,235,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39814d89fc3a883de123
+BAUCHI,166548,176846,20,11,GAMAWA (LGA: 07) - BAUCHI,289,288,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39814d89fc3a883de120
+BAUCHI,166548,176846,20,11,KATAGUM (LGA: 12) - BAUCHI,364,364,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39814d89fc3a883de125
+BAUCHI,166548,176846,20,11,NINGI (LGA: 15) - BAUCHI,371,370,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39814d89fc3a883de128
+BAUCHI,166548,176846,20,10,MISAU (LGA: 14) - BAUCHI,256,252,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39814d89fc3a883de127
+BAUCHI,166548,176846,20,11,SHIRA (LGA: 16) - BAUCHI,249,249,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39814d89fc3a883de129
+BAUCHI,166548,176846,20,10,KIRFI (LGA: 13) - BAUCHI,154,154,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39814d89fc3a883de126
+BAUCHI,166548,176846,20,10,WARJI (LGA: 19) - BAUCHI,142,142,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39824d89fc3a883de12c
+BAUCHI,166548,176846,20,11,TAFAWA BALEWA (LGA: 17) - BAUCHI,286,286,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39814d89fc3a883de12a
+BAUCHI,166548,176846,20,11,ZAKI (LGA: 20) - BAUCHI,261,260,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39824d89fc3a883de12d
+BAUCHI,166548,176846,20,11,TORO (LGA: 18) - BAUCHI,423,423,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39814d89fc3a883de12b
+ANAMBRA,166548,176846,21,11,AYAMELUM (LGA: 02) - ANAMBRA,191,54,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397f4d89fc3a883de106
+ANAMBRA,166548,176846,21,10,ANAMBRA WEST (LGA: 04) - ANAMBRA,164,164,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397f4d89fc3a883de108
+ANAMBRA,166548,176846,21,20,AGUATA (LGA: 01) - ANAMBRA,342,342,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397f4d89fc3a883de105
+ANAMBRA,166548,176846,21,15,ANAMBRA EAST (LGA: 03) - ANAMBRA,241,241,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397f4d89fc3a883de107
+ANAMBRA,166548,176846,21,12,EKWUSIGO (LGA: 09) - ANAMBRA,193,106,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39804d89fc3a883de10d
+ANAMBRA,166548,176846,21,14,DUNUKOFIA (LGA: 08) - ANAMBRA,165,164,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39804d89fc3a883de10c
+ANAMBRA,166548,176846,21,14,AWKA NORTH (LGA: 06) - ANAMBRA,150,150,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397f4d89fc3a883de10a
+ANAMBRA,166548,176846,21,10,NNEWI NORTH (LGA: 14) - ANAMBRA,318,317,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39804d89fc3a883de112
+ANAMBRA,166548,176846,21,18,NJIKOKA (LGA: 13) - ANAMBRA,231,224,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39804d89fc3a883de111
+ANAMBRA,166548,176846,21,12,IDEMILI NORTH (LGA: 10) - ANAMBRA,467,161,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39804d89fc3a883de10e
+ANAMBRA,166548,176846,21,20,NNEWI SOUTH (LGA: 15) - ANAMBRA,297,278,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39804d89fc3a883de113
+ANAMBRA,166548,176846,21,12,IDEMILI-SOUTH (LGA: 11) - ANAMBRA,243,113,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39804d89fc3a883de10f
+ANAMBRA,166548,176846,21,17,ONITSHA -SOUTH (LGA: 18) - ANAMBRA,321,321,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39804d89fc3a883de116
+ANAMBRA,166548,176846,21,18,ORUMBA NORTH (LGA: 19) - ANAMBRA,253,253,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39804d89fc3a883de117
+ANAMBRA,166548,176846,21,16,OGBARU (LGA: 16) - ANAMBRA,383,311,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39804d89fc3a883de114
+AKWA IBOM,166548,176846,31,11,EKET (LGA: 03) - AKWA IBOM,203,196,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397d4d89fc3a883de0e8
+AKWA IBOM,166548,176846,31,10,EASTERN OBOLO (LGA: 02) - AKWA IBOM,57,56,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397d4d89fc3a883de0e7
+ANAMBRA,166548,176846,21,19,ANAOCHA (LGA: 05) - ANAMBRA,320,287,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397f4d89fc3a883de109
+ANAMBRA,166548,176846,21,18,ORUMBA  SOUTH (LGA: 20) - ANAMBRA,208,206,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39804d89fc3a883de118
+ANAMBRA,166548,176846,21,15,OYI (LGA: 21) - ANAMBRA,207,193,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39804d89fc3a883de119
+AKWA IBOM,166548,176846,31,10,ESIT EKET (UQUO) (LGA: 04) - AKWA IBOM,95,95,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397d4d89fc3a883de0e9
+AKWA IBOM,166548,176846,31,11,IBIONO IBOM (LGA: 10) - AKWA IBOM,199,174,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397e4d89fc3a883de0ef
+AKWA IBOM,166548,176846,31,10,IBESIKPO ASUTAN (LGA: 09) - AKWA IBOM,180,173,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397e4d89fc3a883de0ee
+ANAMBRA,166548,176846,21,20,AWKA SOUTH (LGA: 07) - ANAMBRA,390,389,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397f4d89fc3a883de10b
+ANAMBRA,166548,176846,21,20,IHALA (LGA: 12) - ANAMBRA,323,188,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39804d89fc3a883de110
+ANAMBRA,166548,176846,21,15,ONITSHA-NORTH (LGA: 17) - ANAMBRA,313,313,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f39804d89fc3a883de115
+AKWA IBOM,166548,176846,31,11,ETINAN (LGA: 07) - AKWA IBOM,146,146,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397e4d89fc3a883de0ec
+AKWA IBOM,166548,176846,31,11,IKOT EKPENE (LGA: 14) - AKWA IBOM,171,171,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397e4d89fc3a883de0f3
+AKWA IBOM,166548,176846,31,10,INI (LGA: 15) - AKWA IBOM,113,112,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397e4d89fc3a883de0f4
+AKWA IBOM,166548,176846,31,10,NSIT IBOM (LGA: 20) - AKWA IBOM,114,114,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397e4d89fc3a883de0f9
+AKWA IBOM,166548,176846,31,11,ESSIEN UDIM (LGA: 05) - AKWA IBOM,219,216,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397d4d89fc3a883de0ea
+AKWA IBOM,166548,176846,31,11,IKONO (LGA: 12) - AKWA IBOM,168,167,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397e4d89fc3a883de0f1
+AKWA IBOM,166548,176846,31,10,NSIT ATAI (LGA: 19) - AKWA IBOM,85,85,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397e4d89fc3a883de0f8
+AKWA IBOM,166548,176846,31,11,ABAK (LGA: 01) - AKWA IBOM,186,180,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397d4d89fc3a883de0e6
+AKWA IBOM,166548,176846,31,10,ORON (LGA: 25) - AKWA IBOM,105,105,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397f4d89fc3a883de0fe
+AKWA IBOM,166548,176846,31,12,ONNA (LGA: 24) - AKWA IBOM,142,142,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397f4d89fc3a883de0fd
+AKWA IBOM,166548,176846,31,10,IBENO (LGA: 08) - AKWA IBOM,71,71,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397e4d89fc3a883de0ed
+AKWA IBOM,166548,176846,31,11,URUAN (LGA: 29) - AKWA IBOM,166,165,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397f4d89fc3a883de102
+AKWA IBOM,166548,176846,31,10,MBO (LGA: 17) - AKWA IBOM,100,95,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397e4d89fc3a883de0f6
+AKWA IBOM,166548,176846,31,10,ETIM EKPO (LGA: 06) - AKWA IBOM,111,78,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397d4d89fc3a883de0eb
+AKWA IBOM,166548,176846,31,10,URUE OFFONG/ORUKO (LGA: 30) - AKWA IBOM,73,73,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397f4d89fc3a883de103
+AKWA IBOM,166548,176846,31,10,OBOT AKARA (LGA: 22) - AKWA IBOM,105,105,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397e4d89fc3a883de0fb
+AKWA IBOM,166548,176846,31,10,IKA (LGA: 11) - AKWA IBOM,79,79,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397e4d89fc3a883de0f0
+AKWA IBOM,166548,176846,31,10,IKOT ABASI (LGA: 13) - AKWA IBOM,111,111,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397e4d89fc3a883de0f2
+AKWA IBOM,166548,176846,31,10,UDUNG UKO (LGA: 27) - AKWA IBOM,61,60,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397f4d89fc3a883de100
+AKWA IBOM,166548,176846,31,14,MKPAT ENIN (LGA: 18) - AKWA IBOM,145,137,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397e4d89fc3a883de0f7
+AKWA IBOM,166548,176846,31,10,ITU (LGA: 16) - AKWA IBOM,140,139,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397e4d89fc3a883de0f5
+AKWA IBOM,166548,176846,31,10,OKOBO (LGA: 23) - AKWA IBOM,112,112,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397e4d89fc3a883de0fc
+AKWA IBOM,166548,176846,31,11,UKANAFUN (LGA: 28) - AKWA IBOM,134,129,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397f4d89fc3a883de101
+AKWA IBOM,166548,176846,31,10,NSIT UBIUM (LGA: 21) - AKWA IBOM,117,116,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397e4d89fc3a883de0fa
+AKWA IBOM,166548,176846,31,13,ORUK ANAM (LGA: 26) - AKWA IBOM,221,196,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397f4d89fc3a883de0ff
+AKWA IBOM,166548,176846,31,11,UYO (LGA: 31) - AKWA IBOM,424,410,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397f4d89fc3a883de104
+ADAMAWA,166548,176846,21,10,GANYE (LGA: 03) - ADAMAWA,198,197,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397c4d89fc3a883de0d3
+ADAMAWA,166548,176846,21,10,GIRE 1 (LGA: 04) - ADAMAWA,152,152,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397c4d89fc3a883de0d4
+ABIA,166548,176846,17,12,ABA NORTH (LGA: 01) - ABIA,503,387,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397a4d89fc3a883de0c0
+ABIA,166548,176846,17,13,BENDE (LGA: 04) - ABIA,214,210,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397b4d89fc3a883de0c3
+ABIA,166548,176846,17,11,AROCHUKWU (LGA: 03) - ABIA,183,174,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397b4d89fc3a883de0c2
+ADAMAWA,166548,176846,21,10,GOMBI (LGA: 05) - ADAMAWA,180,180,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397c4d89fc3a883de0d5
+ADAMAWA,166548,176846,21,11,FUFORE (LGA: 02) - ADAMAWA,274,269,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397c4d89fc3a883de0d2
+ADAMAWA,166548,176846,21,10,GUYUK (LGA: 06) - ADAMAWA,150,150,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397c4d89fc3a883de0d6
+ABIA,166548,176846,17,12,ABA SOUTH (LGA: 02) - ABIA,518,453,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397b4d89fc3a883de0c1
+ABIA,166548,176846,17,10,IKWUANO (LGA: 05) - ABIA,143,143,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397b4d89fc3a883de0c4
+ABIA,166548,176846,17,11,OHAFIA (LGA: 10) - ABIA,282,196,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397b4d89fc3a883de0c9
+ABIA,166548,176846,17,10,ISUIKWUATO (LGA: 08) - ABIA,149,149,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397b4d89fc3a883de0c7
+ADAMAWA,166548,176846,21,11,JADA (LGA: 08) - ADAMAWA,215,214,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397c4d89fc3a883de0d8
+ADAMAWA,166548,176846,21,10,LAMURDE (LGA: 09) - ADAMAWA,152,151,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397c4d89fc3a883de0d9
+ADAMAWA,166548,176846,21,12,HONG (LGA: 07) - ADAMAWA,225,225,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397c4d89fc3a883de0d7
+ABIA,166548,176846,17,10,ISIALA NGWA NORTH (LGA: 06) - ABIA,185,183,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397b4d89fc3a883de0c5
+ABIA,166548,176846,17,10,ISIALA NGWA SOUTH (LGA: 07) - ABIA,194,194,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397b4d89fc3a883de0c6
+ABIA,166548,176846,17,10,OSISIOMA (LGA: 11) - ABIA,301,255,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397b4d89fc3a883de0ca
+ADAMAWA,166548,176846,21,10,MADAGALI (LGA: 10) - ADAMAWA,160,156,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397c4d89fc3a883de0da
+ADAMAWA,166548,176846,21,16,MICHIKA (LGA: 13) - ADAMAWA,223,222,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397c4d89fc3a883de0dd
+ADAMAWA,166548,176846,21,10,MAIHA (LGA: 11) - ADAMAWA,122,122,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397c4d89fc3a883de0db
+ABIA,166548,176846,17,10,UKWA EAST (LGA: 13) - ABIA,85,85,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397b4d89fc3a883de0cc
+ABIA,166548,176846,17,10,UGWUNAGBO (LGA: 12) - ABIA,160,160,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397b4d89fc3a883de0cb
+ABIA,166548,176846,17,11,OBINGWA (LGA: 09) - ABIA,312,239,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397b4d89fc3a883de0c8
+ABIA,166548,176846,17,12,UMUAHIA NORTH (LGA: 15) - ABIA,378,360,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397b4d89fc3a883de0ce
+ADAMAWA,166548,176846,21,10,NUMAN (LGA: 16) - ADAMAWA,170,170,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397d4d89fc3a883de0e0
+ADAMAWA,166548,176846,21,11,SONG (LGA: 18) - ADAMAWA,207,207,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397d4d89fc3a883de0e2
+ADAMAWA,166548,176846,21,11,MUBI NORTH (LGA: 14) - ADAMAWA,276,276,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397d4d89fc3a883de0de
+ABIA,166548,176846,17,10,UKWA  WEST (LGA: 14) - ABIA,129,109,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397b4d89fc3a883de0cd
+ABIA,166548,176846,17,10,UMUAHIA  SOUTH (LGA: 16) - ABIA,173,173,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397c4d89fc3a883de0cf
+ABIA,166548,176846,17,12,UMU - NNEOCHI (LGA: 17) - ABIA,153,153,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397c4d89fc3a883de0d0
+ADAMAWA,166548,176846,21,12,MAYO - BELWA (LGA: 12) - ADAMAWA,206,187,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397c4d89fc3a883de0dc
+ADAMAWA,166548,176846,21,10,MUBI SOUTH (LGA: 15) - ADAMAWA,143,142,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397d4d89fc3a883de0df
+ADAMAWA,166548,176846,21,10,SHELLENG (LGA: 17) - ADAMAWA,124,124,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397d4d89fc3a883de0e1
+ADAMAWA,166548,176846,21,10,TOUNGO (LGA: 19) - ADAMAWA,101,101,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397d4d89fc3a883de0e3
+ADAMAWA,166548,176846,21,11,YOLA NORTH (LGA: 20) - ADAMAWA,377,376,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397d4d89fc3a883de0e4
+ADAMAWA,166548,176846,21,11,YOLA SOUTH (LGA: 21) - ADAMAWA,272,272,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397d4d89fc3a883de0e5
+ADAMAWA,166548,176846,21,10,DEMSA (LGA: 01) - ADAMAWA,177,177,https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213/context/ward/lga/5f0f397c4d89fc3a883de0d1
