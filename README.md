@@ -17,7 +17,7 @@ As of 11/03/2023, there is a new dataset titled [docs.csv](./nga_presidential_el
 
 ### Commitment
 
-We plan to publish data on a daily basis at approximately 7 pm or 19:00, Greenwich Mean Time (GMT).
+We plan to publish data on a daily basis at approximately 10 pm or 22:00, Greenwich Mean Time (GMT).
 
 
 ### Terms of Use
